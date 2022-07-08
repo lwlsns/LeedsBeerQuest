@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeedsBeerQuest", "LeedsBeerQuest\LeedsBeerQuest.csproj", "{E79ACBF5-E915-415D-835B-E479D08BE5BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeedsBeerQuestTest", "LeedsBeerQuestTest\LeedsBeerQuestTest.csproj", "{C7751258-4E3F-41DB-A36A-3EC7F709FF3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E79ACBF5-E915-415D-835B-E479D08BE5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79ACBF5-E915-415D-835B-E479D08BE5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79ACBF5-E915-415D-835B-E479D08BE5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79ACBF5-E915-415D-835B-E479D08BE5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7751258-4E3F-41DB-A36A-3EC7F709FF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7751258-4E3F-41DB-A36A-3EC7F709FF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7751258-4E3F-41DB-A36A-3EC7F709FF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7751258-4E3F-41DB-A36A-3EC7F709FF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
