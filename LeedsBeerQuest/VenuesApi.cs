@@ -76,8 +76,8 @@ namespace LeedsBeerQuest
 
         [FunctionName("GetVenuesWithinDistance")]
         [OpenApiOperation(operationId: "GetVenuesWithinDistance", tags: new[] { "name" })]
-        [OpenApiParameter(name: "distance", In = ParameterLocation.Query, Required = true, Type = typeof(int), Description = "The distance in meters to search for venues")]
-        [OpenApiParameter(name: "position", In = ParameterLocation.Query, Required = false, Type = typeof(string), Description = "The position to search from (lat,long)")]
+        [OpenApiParameter(name: "distance", In = ParameterLocation.Query, Required = false, Type = typeof(int), Description = "The distance in meters to search for venues")]
+        [OpenApiParameter(name: "position", In = ParameterLocation.Query, Required = true, Type = typeof(string), Description = "The position to search from (lat,long)")]
         [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Venue>), Description = "The OK response")]
         public static async Task<IActionResult> GetVenuesWithinDistance(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "GetVenuesWithinDistance")] HttpRequest req,
@@ -104,13 +104,19 @@ namespace LeedsBeerQuest
                 return new BadRequestResult();
             }
 
+            string query = $"SELECT ST_DISTANCE(c.location, {{'type': 'Point', 'coordinates':[{position}]}}) AS Distance, " +
+                "c.id, c.name, c.category, c.url, c.date, c.excerpt, c.thumbnail, c.location, c.address, c.phone, c.twitter, " + 
+                "c.stars_beer, c.stars_atmosphere, c.stars_amenities, c.stars_value, c.tags " +
+                "FROM c";
+
+            if(!string.IsNullOrEmpty(distance))
+            {
+                query = $"{query} WHERE ST_DISTANCE(c.location, {{'type': 'Point', 'coordinates':[{position}]}}) < {distance}";
+            }
+
             Container container = client.GetDatabase("venues").GetContainer("venuecontainer");
 
-            QueryDefinition queryDefinition = new QueryDefinition(
-                @"SELECT ST_DISTANCE(c.location, {'type': 'Point', 'coordinates':[53.795647, -1.5485017]}) AS Distance,
-                c.id, c.name, c.category, c.url, c.date, c.excerpt, c.thumbnail, c.location, c.address, c.phone, c.twitter,
-                c.stars_beer, c.stars_atmosphere, c.stars_amenities, c.stars_value, c.tags
-                FROM c");
+            QueryDefinition queryDefinition = new QueryDefinition(query);
 
             List<Venue> lstVenues = new List<Venue>();
 
