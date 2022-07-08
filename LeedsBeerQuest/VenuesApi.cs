@@ -20,7 +20,7 @@ namespace LeedsBeerQuest
         [FunctionName("HttpTrigger")]
         [OpenApiOperation(operationId: "Hello", tags: new[] { "name" })]
         [OpenApiParameter(name: "name", In = ParameterLocation.Query, Required = true, Type = typeof(string), Description = "The **Name** parameter")]
-        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "text/plain", bodyType: typeof(string), Description = "The OK response")]
+        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "text/plain", bodyType: typeof(string), Description = "A hello message")]
         public static async Task<IActionResult> Hello(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", "post", Route = "Hello")] HttpRequest req,
             ILogger log)
@@ -42,7 +42,7 @@ namespace LeedsBeerQuest
 
         [FunctionName("GetVenues")]
         [OpenApiOperation(operationId: "GetVenues", tags: new[] { "name" })]
-        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Venue>), Description = "The OK response")]
+        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Venue>), Description = "A list of all venues")]
         public static async Task<IActionResult> GetVenues(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "Venues")] HttpRequest req,
             [CosmosDB(
@@ -78,7 +78,7 @@ namespace LeedsBeerQuest
         [OpenApiOperation(operationId: "GetVenuesWithinDistance", tags: new[] { "name" })]
         [OpenApiParameter(name: "distance", In = ParameterLocation.Query, Required = false, Type = typeof(int), Description = "The distance in meters to search for venues")]
         [OpenApiParameter(name: "position", In = ParameterLocation.Query, Required = true, Type = typeof(string), Description = "The position to search from (lat,long)")]
-        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Venue>), Description = "The OK response")]
+        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Venue>), Description = "A list of venues within a given distance")]
         public static async Task<IActionResult> GetVenuesWithinDistance(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "GetVenuesWithinDistance")] HttpRequest req,
             [CosmosDB(
@@ -137,7 +137,7 @@ namespace LeedsBeerQuest
         [OpenApiParameter(name: "tag", In = ParameterLocation.Query, Required = true, Type = typeof(string), Description = "The tag to search for")]
         [OpenApiParameter(name: "distance", In = ParameterLocation.Query, Required = false, Type = typeof(int), Description = "The distance in meters to search for venues")]
         [OpenApiParameter(name: "position", In = ParameterLocation.Query, Required = true, Type = typeof(string), Description = "The position to search from (lat,long)")]
-        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Venue>), Description = "The OK response")]
+        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Venue>), Description = "A list of venues with the given tag")]
         public static async Task<IActionResult> GetVenuesWithTag(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "GetVenuesWithTag")] HttpRequest req,
             [CosmosDB(
