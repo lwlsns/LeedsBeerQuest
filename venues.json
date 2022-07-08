@@ -1,0 +1,5330 @@
+[
+    {
+        "_row_id": 1,
+        "name": "Wetherspoon's, Railway Station",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=88",
+        "date": "2012-09-16T11:17:22",
+        "excerpt": "A great selection of cask ales, if you can make it through the sea of sports fans and hen nights to get to the bar.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/09/20120913_200655.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795647,
+                -1.5485017
+            ]
+        },
+        "address": "North Concourse\r\nLeeds Railway Station\r\nLeeds LS1 4DY\r\n",
+        "phone": "0113 247 1676",
+        "twitter": "jdwtweet",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 2,
+        "stars_amenities": 3,
+        "stars_value": 4,
+        "tags": "food,breakfast,beer garden,free wifi,coffee,sunday roasts"
+    },
+    {
+        "_row_id": 2,
+        "name": "The White Rose",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=96",
+        "date": "2012-09-16T11:19:25",
+        "excerpt": "Standard mainline station pub. Nothing to love; nothing to hate. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/09/20120915_140254.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794857,
+                -1.5473708
+            ]
+        },
+        "address": "Leeds Railway Station \r\nLeeds LS1 4DY ",
+        "phone": "",
+        "twitter": "",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2.5,
+        "stars_value": 2.5,
+        "tags": "food,breakfast,free wifi,coffee,sofas"
+    },
+    {
+        "_row_id": 3,
+        "name": "White Cloth Bar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=135",
+        "date": "2012-09-18T11:35:54",
+        "excerpt": "Little cafe bar in the White Cloth Gallery. Great atmosphere and decent selection of beers: definitely one to check out!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/09/20120918_105713.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795635,
+                -1.5502828
+            ]
+        },
+        "address": "26 Aire Street\r\nLeeds LS1 4HT",
+        "phone": "0113 218 1923",
+        "twitter": "WhiteClothBar",
+        "stars_beer": 4,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,free wifi,coffee,sofas,membership discount"
+    },
+    {
+        "_row_id": 4,
+        "name": "Revival ",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=165",
+        "date": "2012-09-21T12:22:56",
+        "excerpt": "With bad beer and weird opening times, this retro theme bar is surprisingly appealing.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/09/20120919_230945.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79593,
+                -1.5468359
+            ]
+        },
+        "address": "40 Boar Lane \r\nLeeds LS1 4DA",
+        "phone": "0113 2458 063",
+        "twitter": "",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 2.5,
+        "stars_value": 4.5,
+        "tags": "free wifi,dance floor,karaoke"
+    },
+    {
+        "_row_id": 5,
+        "name": "Distrikt",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=185",
+        "date": "2012-09-21T14:20:02",
+        "excerpt": "Speakeasy-style underground club/bar with great beer selection and decent food.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/09/20120920_121330.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.796158,
+                -1.541794
+            ]
+        },
+        "address": "7 Duncan Street\r\nLeeds LS1 6DQ",
+        "phone": "0113 243 3674",
+        "twitter": "distrikt_leeds",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 2.5,
+        "stars_value": 2.5,
+        "tags": "food,free wifi,dance floor,live music"
+    },
+    {
+        "_row_id": 6,
+        "name": "Fab Cafe",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=196",
+        "date": "2012-09-21T18:25:54",
+        "excerpt": "Cult TV theme bar with dance floor. Cheap-ish drinks, but none of them very nice. Go for the arcade games!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/09/20120920_205607.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.802345,
+                -1.5453913
+            ]
+        },
+        "address": "46 Woodhouse Lane\r\nLeeds LS2 8PL",
+        "phone": "0113 244 9009",
+        "twitter": "fabcafeleeds",
+        "stars_beer": 1,
+        "stars_atmosphere": 4,
+        "stars_amenities": 2.5,
+        "stars_value": 3.5,
+        "tags": "dance floor,arcade games"
+    },
+    {
+        "_row_id": 7,
+        "name": "O'Neill's",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=213",
+        "date": "2012-09-23T17:34:39",
+        "excerpt": "The city centre's only traditional Irish pub, this chain offers a good selection of Irish grub but a rather plain selection of beer to go along with it.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/09/20120922_145032.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800793,
+                -1.549229
+            ]
+        },
+        "address": "26 Great George Street \r\nLeeds LS1 3DL",
+        "phone": "0113 244 0810",
+        "twitter": "ONeillsPubs",
+        "stars_beer": 2,
+        "stars_atmosphere": 3,
+        "stars_amenities": 3.5,
+        "stars_value": 2.5,
+        "tags": "food,breakfast,free wifi,coffee,sports,sunday roasts"
+    },
+    {
+        "_row_id": 8,
+        "name": "The Riverside",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=234",
+        "date": "2012-09-26T17:31:45",
+        "excerpt": "Looks like it's for the staff of the office block above, but is actually a very pleasant spot to relax by the river.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/09/20120925_123918.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79449,
+                -1.5538768
+            ]
+        },
+        "address": "1 Whitehall Riverside \r\nLeeds LS1 4BN\r\n\r\n",
+        "phone": "0113 244 9080",
+        "twitter": "TheRiversideLS1",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 4,
+        "stars_value": 2.5,
+        "tags": "food,breakfast,beer garden,free wifi,coffee,sofas,sports"
+    },
+    {
+        "_row_id": 9,
+        "name": "The New Ellington",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=253",
+        "date": "2012-09-30T21:18:47",
+        "excerpt": "Not your average hotel bar. A chilled-out spot with great service, an extraordinary gin menu and some decent beer too.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/09/20120930_172258.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.797188,
+                -1.5537918
+            ]
+        },
+        "address": "23-25a York Place\r\nLeeds LS1 2EY",
+        "phone": "0113 204 2150",
+        "twitter": "",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3,
+        "stars_value": 2,
+        "tags": "food,free wifi,coffee,sofas"
+    },
+    {
+        "_row_id": 10,
+        "name": "Toast Bar + Bistro",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=278",
+        "date": "2012-10-02T06:24:10",
+        "excerpt": "An upmarket football bar focusing on cocktails  nothing special to bring us rushing back.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20120930_162655.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795933,
+                -1.5532901
+            ]
+        },
+        "address": "West Point\r\nWellington Street\r\nLeeds LS1 4JY ",
+        "phone": "0113 243 9546",
+        "twitter": "ToastLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 1,
+        "stars_amenities": 3,
+        "stars_value": 2,
+        "tags": "food,breakfast,beer garden,coffee,sports,quiz,sunday roasts"
+    },
+    {
+        "_row_id": 11,
+        "name": "North Bar ",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=283",
+        "date": "2012-10-02T22:03:09",
+        "excerpt": "Belgian-style bar with an unbelievable selection of beer and staff who really know what they're talking about.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121001_184818.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.799564,
+                -1.5416353
+            ]
+        },
+        "address": "24 New Briggate \r\nLeeds LS1 6ND",
+        "phone": "0113 242 4540",
+        "twitter": "NorthBarDrinks",
+        "stars_beer": 5,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 4,
+        "stars_value": 4,
+        "tags": "food,free wifi,coffee,sofas"
+    },
+    {
+        "_row_id": 12,
+        "name": "The Wrens Hotel",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=313",
+        "date": "2012-10-02T21:34:09",
+        "excerpt": "Nice-enough gastropub with a good selection of ales.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121001_175240.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.8006,
+                -1.5410258
+            ]
+        },
+        "address": "61A New Briggate\r\nLeeds LS2 8JD",
+        "phone": "0113 2458888",
+        "twitter": "",
+        "stars_beer": 3,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3,
+        "stars_value": 3.5,
+        "tags": "food,free wifi,coffee,sunday roasts"
+    },
+    {
+        "_row_id": 13,
+        "name": "The New Conservatory",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=357",
+        "date": "2012-10-07T18:06:45",
+        "excerpt": "The most central bar in Leeds has a surprisingly secret feel and great amenities.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121005_133054.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79771,
+                -1.5447593
+            ]
+        },
+        "address": "Albion Place\r\nLeeds LS1 6JL",
+        "phone": "0113 246 185",
+        "twitter": "NewConservator1",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 4.5,
+        "stars_value": 2.5,
+        "tags": "food,beer garden,free wifi,coffee,sofas,arcade games,live music,pool table,sunday roasts"
+    },
+    {
+        "_row_id": 14,
+        "name": "Yates's, Boar Lane",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=377",
+        "date": "2012-10-09T19:24:10",
+        "excerpt": "A grotty chain pub, fitting in perfectly along grotty Boar Lane. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121009_124113.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795643,
+                -1.5451622
+            ]
+        },
+        "address": "2428 Boar Lane \r\nLeeds LS1 5DA",
+        "phone": "0113 244 8566",
+        "twitter": "StonegatePubs",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 1,
+        "stars_amenities": 2.5,
+        "stars_value": 3,
+        "tags": "food,breakfast,free wifi,coffee,dance floor,arcade games"
+    },
+    {
+        "_row_id": 15,
+        "name": "Veritas",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=393",
+        "date": "2012-10-11T19:38:27",
+        "excerpt": "Great selection of beer and good pub food, but go for the great atmosphere.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121010_125049.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800907,
+                -1.5511496
+            ]
+        },
+        "address": "43 Great George Street\r\nLeeds LS1 3BB",
+        "phone": "0113 242 8094",
+        "twitter": "Veritas_Leeds",
+        "stars_beer": 4.5,
+        "stars_atmosphere": 5,
+        "stars_amenities": 3,
+        "stars_value": 2.5,
+        "tags": "food,coffee,sunday roasts"
+    },
+    {
+        "_row_id": 16,
+        "name": "The Commercial",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=411",
+        "date": "2012-10-13T10:42:09",
+        "excerpt": "Victorian pub hiding in the most unlikely place. Pleasant enough but very poor beer selection.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121012_184251.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.78841,
+                -1.5524783
+            ]
+        },
+        "address": "Sweet Street West\r\nLeeds LS11 9TE",
+        "phone": "0113 243 3542",
+        "twitter": "",
+        "stars_beer": 1,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 1.5,
+        "stars_value": 3,
+        "tags": "food,pool table"
+    },
+    {
+        "_row_id": 17,
+        "name": "The Midnight Bell",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=413",
+        "date": "2012-10-13T11:39:55",
+        "excerpt": "Leeds Brewery's flagship pub is always really busy, but if you can get to the bar there's a good selection of beer and decent food on offer.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121012_193255.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.791653,
+                -1.5519035
+            ]
+        },
+        "address": "101 Water Lane\r\nLeeds LS11 5QN",
+        "phone": "0113 244 5044",
+        "twitter": "MidnightBellLds",
+        "stars_beer": 4,
+        "stars_atmosphere": 3,
+        "stars_amenities": 4,
+        "stars_value": 3.5,
+        "tags": "food,beer garden,coffee,sunday roasts"
+    },
+    {
+        "_row_id": 18,
+        "name": "The Cross Keys",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=415",
+        "date": "2012-10-13T11:43:14",
+        "excerpt": "A gastropub with a great beer selection, traditional inn feel, and an important place in Industrial Revolution history. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121012_204429.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79168,
+                -1.5526088
+            ]
+        },
+        "address": "107 Water Lane\r\nLeeds LS11 5WD",
+        "phone": "0113 243 3711 ",
+        "twitter": "crosskeysleeds",
+        "stars_beer": 4.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3.5,
+        "stars_value": 3.5,
+        "tags": "food,beer garden,free wifi,coffee,quiz,sunday roasts"
+    },
+    {
+        "_row_id": 19,
+        "name": "The Grove Inn",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=417",
+        "date": "2012-10-13T13:14:35",
+        "excerpt": "A gem of a local pub, tucked away behind Bridgewater Place. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121012_214247.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.790924,
+                -1.5478787
+            ]
+        },
+        "address": "Back Row \r\nLeeds LS11 5PL",
+        "phone": "0113 243 9254",
+        "twitter": "",
+        "stars_beer": 4,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3,
+        "stars_value": 4,
+        "tags": "beer garden,free wifi,live music,quiz,darts"
+    },
+    {
+        "_row_id": 20,
+        "name": "The Reliance",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=484",
+        "date": "2012-10-18T20:53:06",
+        "excerpt": "The most beautiful bar we've seen yet, with a beautiful beer selection to match. A couple of niggles prevent it from ranking at the very top.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121017_194043.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80171,
+                -1.5377989
+            ]
+        },
+        "address": "76-78 North Street\r\nLeeds LS2 7PN",
+        "phone": "0113 295 6060",
+        "twitter": "",
+        "stars_beer": 4,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3,
+        "stars_value": 2.5,
+        "tags": "food,beer garden,coffee,sunday roasts"
+    },
+    {
+        "_row_id": 21,
+        "name": "The Restaurant Bar & Grill",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=492",
+        "date": "2012-10-20T21:03:12",
+        "excerpt": "In our eyes, the fantastic location and gorgeous building are the only things this suit-magnet has going for it. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121019_175105.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79656,
+                -1.548022
+            ]
+        },
+        "address": "The Old Post Office\r\n3 City Square\r\nLeeds LS1 2AN",
+        "phone": "0113 244 9625 ",
+        "twitter": "ClubIndividual ",
+        "stars_beer": 1,
+        "stars_atmosphere": 0.5,
+        "stars_amenities": 2.5,
+        "stars_value": 1,
+        "tags": "food,beer garden,free wifi,coffee,sunday roasts"
+    },
+    {
+        "_row_id": 22,
+        "name": "The Scarbrough Hotel",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=496",
+        "date": "2012-10-20T21:28:46",
+        "excerpt": "The Scabby Taps is famous and rightly busy, but still has charm and good beer.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121019_184340.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795364,
+                -1.5463839
+            ]
+        },
+        "address": "Bishopsgate Street\r\nLeeds LS1 5DY",
+        "phone": "0113 243 4590",
+        "twitter": "Nicholsonspubs",
+        "stars_beer": 4,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3,
+        "stars_value": 4,
+        "tags": "food,beer garden,free wifi,coffee,arcade games"
+    },
+    {
+        "_row_id": 23,
+        "name": "Spencer's",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=500",
+        "date": "2012-10-21T10:04:37",
+        "excerpt": "Unremarkable but pleasant enough United supporters' pub. Stay away from the toilets!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121019_191408.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795254,
+                -1.5457584
+            ]
+        },
+        "address": "Mill Hill\r\nLeeds LS1 5DQ",
+        "phone": "0113 243 9070",
+        "twitter": "",
+        "stars_beer": 1,
+        "stars_atmosphere": 2,
+        "stars_amenities": 1,
+        "stars_value": 3,
+        "tags": "arcade games,sports,jukebox"
+    },
+    {
+        "_row_id": 24,
+        "name": "The Prince of Wales",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=505",
+        "date": "2012-10-21T16:28:20",
+        "excerpt": "Another Leeds United pub along Mill Hill with a few decent beers. Not much more to say. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121019_191419.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79514,
+                -1.54544
+            ]
+        },
+        "address": "Mill Hill \r\nLeeds LS1 5DQ ",
+        "phone": "0113 245 2434",
+        "twitter": "",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 2,
+        "stars_amenities": 1.5,
+        "stars_value": 4,
+        "tags": "arcade games,sports,darts"
+    },
+    {
+        "_row_id": 25,
+        "name": "Sandinista!",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=549",
+        "date": "2012-10-30T08:21:26",
+        "excerpt": "A lively cantina bar with excellent tapas and a not-too-bad beer selection.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121028_190549.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.8009,
+                -1.5409023
+            ]
+        },
+        "address": "5/5a Cross Belgrave Street\r\nLeeds LS2 8JP",
+        "phone": "0113 305 0372",
+        "twitter": "SandinistaLeeds",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3.5,
+        "stars_value": 3,
+        "tags": "food,beer garden,free wifi,dance floor,live music"
+    },
+    {
+        "_row_id": 26,
+        "name": "Mr Foley's Cask Ale House",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=554",
+        "date": "2012-10-30T08:22:10",
+        "excerpt": "One of our favourite places in Leeds. Unpretentious pub in a great location with an amazing beer selection.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121028_220545.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.799454,
+                -1.5488919
+            ]
+        },
+        "address": "159 The Headrow\r\nLeeds LS1 5RG",
+        "phone": "0113 242 9674",
+        "twitter": "Mrfoleys",
+        "stars_beer": 5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 4,
+        "stars_value": 4.5,
+        "tags": "food,free wifi,coffee,sofas,arcade games,sports"
+    },
+    {
+        "_row_id": 27,
+        "name": "Parkers",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=559",
+        "date": "2012-10-31T07:51:17",
+        "excerpt": "A brand new bar in the middle of the Financial Quarter. Trying to appeal to people who aren't us, but has a surprising character of its own.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/10/20121030_084820.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79773,
+                -1.5520998
+            ]
+        },
+        "address": "12 Park Place\r\nLeeds LS1 2RU",
+        "phone": "",
+        "twitter": "",
+        "stars_beer": 2,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2.5,
+        "stars_value": 3,
+        "tags": "food,free wifi,coffee,jukebox"
+    },
+    {
+        "_row_id": 28,
+        "name": "Wetherspoon's  The Cuthbert Brodrick ",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=602",
+        "date": "2012-11-01T14:42:22",
+        "excerpt": "All the trappings of a Wetherspoon's, plus a great setting and a bit of a local feel. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/11/20121030_181729.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.801746,
+                -1.5478768
+            ]
+        },
+        "address": "99 Portland Crescent\r\nLeeds LS2 3AD\r\n",
+        "phone": "0113 204 8570",
+        "twitter": "CuthyBrodrick",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 4,
+        "stars_value": 4,
+        "tags": "food,breakfast,beer garden,free wifi,coffee,sofas,sunday roasts"
+    },
+    {
+        "_row_id": 29,
+        "name": "Outlaws Yacht Club",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=619",
+        "date": "2012-11-03T11:24:38",
+        "excerpt": "Leeds's newest social club is in a hair salon, but as well as cut & blow dry there's a nice beer menu and atmosphere to be found inside.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/11/20121102_181850.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79645,
+                -1.5365351
+            ]
+        },
+        "address": "38 New York Street\r\nLeeds LS2 7DY",
+        "phone": "07796 328800",
+        "twitter": "outlawyachtclub",
+        "stars_beer": 4,
+        "stars_atmosphere": 4,
+        "stars_amenities": 2.5,
+        "stars_value": 4,
+        "tags": "food,free wifi,coffee,sofas,quiz"
+    },
+    {
+        "_row_id": 30,
+        "name": "Palm Sugar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=632",
+        "date": "2012-11-03T11:43:45",
+        "excerpt": "Chaophraya's new upscale lounge bar with a mediocre beer selection and an inexplicably strong lemon smell. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/11/20121102_193309.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794342,
+                -1.5437791
+            ]
+        },
+        "address": "20A Blayds Court\r\nSwinegate\r\nLeeds LS1 4AG",
+        "phone": "0113 244 9339",
+        "twitter": "ChaophrayaThai",
+        "stars_beer": 2,
+        "stars_atmosphere": 2,
+        "stars_amenities": 2,
+        "stars_value": 2,
+        "tags": "beer garden,coffee"
+    },
+    {
+        "_row_id": 31,
+        "name": "The George",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=656",
+        "date": "2012-11-08T15:34:32",
+        "excerpt": "A charming pub with a local feel and plenty of cask ales. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/11/20121103_205845.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80109,
+                -1.5524343
+            ]
+        },
+        "address": "69 Great George Street\r\nLeeds LS1 3BB",
+        "phone": "0113 245 3232",
+        "twitter": "",
+        "stars_beer": 3,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2,
+        "stars_value": 3.5,
+        "tags": "food,coffee,arcade games,sports"
+    },
+    {
+        "_row_id": 32,
+        "name": "Henry's Cafe Bar",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=673",
+        "date": "2012-11-10T14:22:37",
+        "excerpt": "Ever wanted to go to a hotel bar that wasn't in a hotel? Henry's is for you!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/11/20121107_123618.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79826,
+                -1.5481473
+            ]
+        },
+        "address": "10 Greek Street\r\nLeeds LS1 5RU",
+        "phone": "0113 245 9424",
+        "twitter": "henryscafebar",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 2,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,beer garden,free wifi,coffee,sofas,arcade games"
+    },
+    {
+        "_row_id": 33,
+        "name": "Wetherspoon's  Stick or Twist",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=684",
+        "date": "2012-11-14T08:30:35",
+        "excerpt": "Leeds's earliest Wetherspoon's pub is hiding in a forgotten part of town, but they haven't forgotten about great service and beer.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/11/20121107_194640.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.802723,
+                -1.5430533
+            ]
+        },
+        "address": "The Podium Site\r\nMerrion Way\r\nLeeds LS2 8PD",
+        "phone": "0113 234 9748",
+        "twitter": "StickorTwistJDW",
+        "stars_beer": 4,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 4,
+        "stars_value": 4,
+        "tags": "food,breakfast,beer garden,free wifi,coffee,sofas,arcade games,sunday roasts"
+    },
+    {
+        "_row_id": 34,
+        "name": "Town Hall Tavern",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=696",
+        "date": "2012-11-14T16:16:31",
+        "excerpt": "A completely refurbished gastropub offering traditional Yorkshire food and Timothy Taylor ales. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/11/20121114_123507.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.799526,
+                -1.5513806
+            ]
+        },
+        "address": "17 Westgate \r\nLeeds LS1 2RA",
+        "phone": "0113 244 0765",
+        "twitter": "TownHallTavern",
+        "stars_beer": 3,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3.5,
+        "stars_value": 3,
+        "tags": "food,free wifi,coffee,sunday roasts"
+    },
+    {
+        "_row_id": 35,
+        "name": "The Pour House",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=714",
+        "date": "2012-11-19T22:00:29",
+        "excerpt": "A brand new spot on Granary Wharf, with great food, beautiful views, and an OK-ish beer selection. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/11/20121117_143006.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.792717,
+                -1.5489038
+            ]
+        },
+        "address": "Canal Wharf\r\nWater Lane\r\nLeeds LS11 5PS",
+        "phone": "07816 481 492",
+        "twitter": "PourHouseLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3.5,
+        "stars_value": 2,
+        "tags": "food,beer garden,coffee,sofas,quiz"
+    },
+    {
+        "_row_id": 36,
+        "name": "Cuvee",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=715",
+        "date": "2012-11-19T22:06:07",
+        "excerpt": "Granary Wharf's champagne bar certainly looks and feels the part. And we aren't the part.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/11/20121117_155151.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79296,
+                -1.5483528
+            ]
+        },
+        "address": "Watermans Place\r\nGranary Wharf\r\nLeeds LS1 4GL",
+        "phone": "0113 318 2808",
+        "twitter": "CuveeLeeds",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 2,
+        "stars_amenities": 1.5,
+        "stars_value": 2,
+        "tags": "food,beer garden,coffee,membership discount"
+    },
+    {
+        "_row_id": 37,
+        "name": "Mayaimi",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=748",
+        "date": "2012-11-30T21:26:51",
+        "excerpt": "Trying to be the Hottest Spot North of Havana, this new nightclub falls a bit short on our criteria. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/11/20121129_175245.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80058,
+                -1.5414319
+            ]
+        },
+        "address": "22-30 Merrion Street \r\nLeeds LS2 8JG",
+        "phone": "07889 127 253",
+        "twitter": "mayaimileeds",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 1,
+        "stars_amenities": 1,
+        "stars_value": 3,
+        "tags": "sofas,dance floor"
+    },
+    {
+        "_row_id": 38,
+        "name": "...escobar",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=765",
+        "date": "2012-11-30T21:58:52",
+        "excerpt": "...It's really dark in here!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/11/20121129_185815.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80073,
+                -1.5481764
+            ]
+        },
+        "address": "23-25 Great George Street\r\nLeeds LS1 3BB",
+        "phone": "0113 220 4389",
+        "twitter": "EscobarLeeds",
+        "stars_beer": 2,
+        "stars_atmosphere": 3,
+        "stars_amenities": 3,
+        "stars_value": 3,
+        "tags": "food,sofas,live music"
+    },
+    {
+        "_row_id": 39,
+        "name": "The Victoria Hotel",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=785",
+        "date": "2012-12-09T19:23:59",
+        "excerpt": "There's more to The Victoria Hotel than 150-year-old decor (although that's lovely too).",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/12/20121203_180603.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800808,
+                -1.5497911
+            ]
+        },
+        "address": "28 Great George Street\r\nLeeds LS1 3DL",
+        "phone": "0113 245 1386",
+        "twitter": "Nicholsonspubs",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 4,
+        "stars_value": 3.5,
+        "tags": "food,free wifi,coffee,sunday roasts"
+    },
+    {
+        "_row_id": 40,
+        "name": "Mojo: Music for the People",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=799",
+        "date": "2012-12-23T14:49:36",
+        "excerpt": "One of many bars along this stretch, this American-inspired nightspot definitely has its music mojo working. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/12/20121210_175036.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800514,
+                -1.5403283
+            ]
+        },
+        "address": "18 Merrion St\r\nLeeds LS1 6PQ",
+        "phone": "0845 611 8643",
+        "twitter": "MOJO_BAR",
+        "stars_beer": 3,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 2.5,
+        "stars_value": 2,
+        "tags": "live music,jukebox"
+    },
+    {
+        "_row_id": 41,
+        "name": "Nation of Shopkeepers",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=806",
+        "date": "2012-12-23T23:06:14",
+        "excerpt": "A list of amenities as long as my arm, but are all the hats and the beards too offputting?",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/12/20121211_175011.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80077,
+                -1.5474683
+            ]
+        },
+        "address": "27-37 Cookridge Street\r\nLeeds LS2 3AG",
+        "phone": "0113 203 1831",
+        "twitter": "shopkeepers",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 5,
+        "stars_value": 3,
+        "tags": "food,breakfast,beer garden,free wifi,coffee,sofas,dance floor,live music,quiz,sunday roasts"
+    },
+    {
+        "_row_id": 42,
+        "name": "The Pack Horse",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=836",
+        "date": "2012-12-31T14:02:08",
+        "excerpt": "In an alley off Briggate, The Pack Horse surprised us with its pleasant atmosphere and excellent beer selection.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2012/12/20121229_131204.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79753,
+                -1.5428603
+            ]
+        },
+        "address": "Pack Horse Yard\r\nBriggate\r\nLeeds LS1 6AT",
+        "phone": "0113 242 4810",
+        "twitter": "",
+        "stars_beer": 4,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3,
+        "stars_value": 3,
+        "tags": "food,beer garden,coffee,sofas,live music"
+    },
+    {
+        "_row_id": 43,
+        "name": "Massey's Booksellers",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=851",
+        "date": "2013-01-06T21:20:43",
+        "excerpt": "A slightly upmarket student bar, but not much happening beer-wise. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/01/20130102_175258.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.802574,
+                -1.5466304
+            ]
+        },
+        "address": "85 Cookridge Street \r\nLeeds LS2 3AW",
+        "phone": "0113 244 8888",
+        "twitter": "",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 1.5,
+        "stars_value": 2,
+        "tags": "sofas,dance floor"
+    },
+    {
+        "_row_id": 44,
+        "name": "The Old Steps",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=880",
+        "date": "2013-01-13T20:43:21",
+        "excerpt": "This financial quarter pub is reaching out to the after-work crowd, but not much else. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/01/20130111_202422.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.797237,
+                -1.5541112
+            ]
+        },
+        "address": "26 York Place\r\nLeeds LS1 2EY",
+        "phone": "0113 245 0482",
+        "twitter": "theoldsteps",
+        "stars_beer": 2,
+        "stars_atmosphere": 2,
+        "stars_amenities": 2,
+        "stars_value": 2.5,
+        "tags": "food,free wifi,coffee"
+    },
+    {
+        "_row_id": 45,
+        "name": "The Picture House",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=896",
+        "date": "2013-01-16T13:52:02",
+        "excerpt": "A Crown Carvery pub; the carvery is definitely what The Picture House has going for it. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/01/20130115_175536.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800915,
+                -1.5445441
+            ]
+        },
+        "address": "82-90 Merrion Street\r\nLeeds LS2 8LW \t",
+        "phone": "0113 246 9297",
+        "twitter": "CrownCarveries",
+        "stars_beer": 2,
+        "stars_atmosphere": 2,
+        "stars_amenities": 4,
+        "stars_value": 4,
+        "tags": "food,breakfast,beer garden,free wifi,coffee,arcade games,sunday roasts"
+    },
+    {
+        "_row_id": 46,
+        "name": "The Angel Inn",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=909",
+        "date": "2013-01-25T21:56:02",
+        "excerpt": "A Sam Smith's pub, with everything these pubs are famous for. And the floors aren't sticky any more!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/01/20130120_153310.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.798046,
+                -1.5427905
+            ]
+        },
+        "address": "Angel Inn Yard\r\nBriggate\r\nLeeds LS1 6LN",
+        "phone": "0113 245 1428",
+        "twitter": "",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2,
+        "stars_value": 4.5,
+        "tags": "food,beer garden"
+    },
+    {
+        "_row_id": 47,
+        "name": "Arts Cafe",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=911",
+        "date": "2013-01-25T21:55:09",
+        "excerpt": "A cafe bar where the food selection far surpasses the choice of beers. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/01/20130119_120909.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795513,
+                -1.5411516
+            ]
+        },
+        "address": "42 Call Lane\r\nLeeds LS1 6DT",
+        "phone": "0113 243 8243",
+        "twitter": "artscafeleeds",
+        "stars_beer": 2,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3,
+        "stars_value": 2.5,
+        "tags": "food,coffee,membership discount,sunday roasts"
+    },
+    {
+        "_row_id": 48,
+        "name": "The Hourglass",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=938",
+        "date": "2013-01-29T22:23:30",
+        "excerpt": "Definitely a chain pub but somewhat nicer than most of its kind. Ridiculously cheap food too!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/01/20130127_185829.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79568,
+                -1.5423292
+            ]
+        },
+        "address": "157 - 158 Lower Briggate\r\nLeeds LS1 6BG",
+        "phone": "0113 244 2275",
+        "twitter": "HourglassLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 2,
+        "stars_amenities": 4.5,
+        "stars_value": 4,
+        "tags": "food,breakfast,free wifi,coffee,arcade games,sports,live music"
+    },
+    {
+        "_row_id": 49,
+        "name": "The Slug and Lettuce",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=950",
+        "date": "2013-01-30T10:34:29",
+        "excerpt": "A chavvy chain pub along chavvy Park Row, but not the worst chavvy chain pub in the world. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/01/20130128_174818.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.798477,
+                -1.5469025
+            ]
+        },
+        "address": "14 Park Row\r\nLeeds LS1 5NR",
+        "phone": "0113 244 9209",
+        "twitter": "sluglettuce",
+        "stars_beer": 1,
+        "stars_atmosphere": 2,
+        "stars_amenities": 3.5,
+        "stars_value": 2.5,
+        "tags": "food,breakfast,free wifi,coffee"
+    },
+    {
+        "_row_id": 50,
+        "name": "Wharf Chambers",
+        "category": "Other reviews",
+        "url": "http://leedsbeer.info/?p=962",
+        "date": "2013-02-03T19:35:34",
+        "excerpt": "Members-only bar and event space. A welcoming place for all kinds of people to get a decent beer and chill out.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130202_190444.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795555,
+                -1.5379143
+            ]
+        },
+        "address": "23-25 Wharf Street\r\nLeeds LS2 7EQ",
+        "phone": "",
+        "twitter": "WharfChambersCC",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3,
+        "stars_value": 4,
+        "tags": "beer garden,free wifi,coffee,sofas,live music"
+    },
+    {
+        "_row_id": 51,
+        "name": "Jake's Bar and Still Room",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=980",
+        "date": "2013-02-05T10:56:32",
+        "excerpt": "Though it scores low on beer, this unique bar and distillery has loads going for it. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130204_184118.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79568,
+                -1.5408111
+            ]
+        },
+        "address": "29 Call Lane\r\nLeeds LS1 7BT",
+        "phone": "0113 243 1110",
+        "twitter": "Jakesbarleeds",
+        "stars_beer": 1,
+        "stars_atmosphere": 4,
+        "stars_amenities": 2.5,
+        "stars_value": 1.5,
+        "tags": "sofas,dance floor"
+    },
+    {
+        "_row_id": 52,
+        "name": "Oporto",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=993",
+        "date": "2013-02-05T20:11:03",
+        "excerpt": "A music (and hot dog) venue on the Call Lane strip. Nice amenities, but just so-so beer. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130204_184152.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79566,
+                -1.5408245
+            ]
+        },
+        "address": "33 Call Lane \r\nLeeds LS1 7BT",
+        "phone": "0113 245 4444",
+        "twitter": "Oportobar",
+        "stars_beer": 2,
+        "stars_atmosphere": 2,
+        "stars_amenities": 3,
+        "stars_value": 1.5,
+        "tags": "food,free wifi,sofas,live music"
+    },
+    {
+        "_row_id": 53,
+        "name": "Bar Room Bar",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=999",
+        "date": "2013-02-05T20:55:05",
+        "excerpt": "This Call Lane staple is now a Pizza Kitchen, but it's still a bit too dull for us to want to come back often.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130204_202204.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795494,
+                -1.5408111
+            ]
+        },
+        "address": "37 Call Lane\r\nLeeds LS1 6DT",
+        "phone": "0113 243 0315",
+        "twitter": "BarRoomBarLeeds",
+        "stars_beer": 2,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2.5,
+        "stars_value": 2,
+        "tags": "food,coffee,sofas,sports"
+    },
+    {
+        "_row_id": 54,
+        "name": "Call Lane Social",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1015",
+        "date": "2013-02-05T23:51:31",
+        "excerpt": "Call Lane Social has a few good beers in a fancy environment, but it's too dark and too loud for us!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130204_210819.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79563,
+                -1.5411524
+            ]
+        },
+        "address": "38 Call Lane\r\nLeeds LS1 6DT",
+        "phone": "0113 247 0285",
+        "twitter": "CallLaneSocial1",
+        "stars_beer": 3,
+        "stars_atmosphere": 2,
+        "stars_amenities": 1.5,
+        "stars_value": 2,
+        "tags": ""
+    },
+    {
+        "_row_id": 55,
+        "name": "Hoagys Bar",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=1035",
+        "date": "2013-02-12T21:56:08",
+        "excerpt": "A sports pub where we felt quite uncomfortable and out of place. Definitely not for us.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130211_175502.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.798527,
+                -1.5370345
+            ]
+        },
+        "address": "46 Eastgate\r\nLeeds LS2 7JL",
+        "phone": "0113 243 9351",
+        "twitter": "",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 0.5,
+        "stars_amenities": 3,
+        "stars_value": 2.5,
+        "tags": "food,beer garden,free wifi,coffee,arcade games,sports,live music,pool table,quiz"
+    },
+    {
+        "_row_id": 56,
+        "name": "The Wardrobe",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1044",
+        "date": "2013-02-13T07:44:40",
+        "excerpt": "Quarry Hill's only bar is very chilled and has great food.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130211_183755.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.797104,
+                -1.5336013
+            ]
+        },
+        "address": "The Wardrobe\r\nSt Peter's Square\r\nLeeds LS9 8AH",
+        "phone": "0113 383 8800",
+        "twitter": "wardrobeleeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,free wifi,coffee,sofas,dance floor,live music"
+    },
+    {
+        "_row_id": 57,
+        "name": "Tyke",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1063",
+        "date": "2013-02-13T16:52:22",
+        "excerpt": "The only bar in the Gateway complex; so sad for the Gateway complex. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130211_195227.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794975,
+                -1.5331882
+            ]
+        },
+        "address": "Gateway North\r\nCrown Point Road\r\nLeeds LS9 8BZ ",
+        "phone": "",
+        "twitter": "tykebar",
+        "stars_beer": 2,
+        "stars_atmosphere": 1,
+        "stars_amenities": 2.5,
+        "stars_value": 2,
+        "tags": "food,free wifi,coffee,sofas,arcade games,sports,pool table"
+    },
+    {
+        "_row_id": 58,
+        "name": "The Palace",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1082",
+        "date": "2013-02-14T22:25:35",
+        "excerpt": "A lovely Nicholson's pub worthy of its name.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130211_205827.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795113,
+                -1.5349553
+            ]
+        },
+        "address": "Kirkgate \r\nLeeds LS2 7DJ\r\n",
+        "phone": " 0113 244 5882",
+        "twitter": "ThePalace5",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 4,
+        "stars_value": 3.5,
+        "tags": "food,breakfast,beer garden,free wifi,coffee,quiz,sunday roasts"
+    },
+    {
+        "_row_id": 59,
+        "name": "SkyLounge",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1096",
+        "date": "2013-02-21T19:45:03",
+        "excerpt": "The views here certainly can't be beat, unless they start serving beer on the Observation Wheel. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130219_222801.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.793217,
+                -1.5499091
+            ]
+        },
+        "address": "DoubleTree Hotel \r\n13th Floor \r\nGranary Wharf\r\n2 Wharf Approach \r\nLeeds LS1 4BR",
+        "phone": "0113 241 1000",
+        "twitter": "",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2.5,
+        "stars_value": 1.5,
+        "tags": "food,beer garden,sofas"
+    },
+    {
+        "_row_id": 60,
+        "name": "Yum Yum",
+        "category": "Other reviews",
+        "url": "http://leedsbeer.info/?p=1126",
+        "date": "2013-02-23T19:50:40",
+        "excerpt": "Would we go for a night out in a shop? With a beer selection like this, it would be hard to keep us away!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130222_175033.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.793568,
+                -1.5374315
+            ]
+        },
+        "address": "5B Brewery Place\r\nLeeds LS10 1NE",
+        "phone": "07917 194516",
+        "twitter": "",
+        "stars_beer": 4.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 4,
+        "stars_value": 4,
+        "tags": "food,breakfast,beer garden,coffee"
+    },
+    {
+        "_row_id": 61,
+        "name": "Oracle",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1127",
+        "date": "2013-02-23T19:52:31",
+        "excerpt": "If you're looking for an alternative to Greek Street or Call Lane that's remarkably like Greek Street or Call Lane, this is the place to go. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130222_175129.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.793922,
+                -1.5377362
+            ]
+        },
+        "address": "3 Brewery Place\r\nLeeds LS10 1NE",
+        "phone": "0113 246 9912",
+        "twitter": "OracleLeeds",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 0.5,
+        "stars_amenities": 2.5,
+        "stars_value": 2,
+        "tags": "food,beer garden,coffee,sofas,membership discount,dance floor"
+    },
+    {
+        "_row_id": 62,
+        "name": "Azucar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1129",
+        "date": "2013-02-24T18:27:51",
+        "excerpt": "Food, drink, dancing and Howard Marks. But what about the beer?",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130222_175052.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.793774,
+                -1.5371847
+            ]
+        },
+        "address": "5 Brewery Place\r\nLeeds LS10 1NE",
+        "phone": "0113 243 5761",
+        "twitter": "AzucarLeeds",
+        "stars_beer": 2,
+        "stars_atmosphere": 2,
+        "stars_amenities": 3.5,
+        "stars_value": 2,
+        "tags": "food,beer garden,dance floor,live music,quiz"
+    },
+    {
+        "_row_id": 63,
+        "name": "PIN",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=1131",
+        "date": "2013-02-24T19:29:04",
+        "excerpt": "True to form, this Leeds Brewery bar offers an amazing beer selection and a nice atmosphere to enjoy them. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/02/20130222_205911.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79372,
+                -1.5396279
+            ]
+        },
+        "address": "24 Dock Street\r\nLeeds LS10 1JF ",
+        "phone": "0113 225 9355",
+        "twitter": "PINbarLeeds",
+        "stars_beer": 4.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 3,
+        "stars_value": 4.5,
+        "tags": "food,free wifi,sofas,sports,live music"
+    },
+    {
+        "_row_id": 64,
+        "name": "Neon Cactus",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1190",
+        "date": "2013-03-03T08:31:50",
+        "excerpt": "Tequila, Mexican food and the world's largest hot sauce collection. They just forgot to include any great Mexican beer.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/03/20130228_195429.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795597,
+                -1.5408459
+            ]
+        },
+        "address": "35 Call Lane\r\nLeeds LS1 7BT",
+        "phone": "0113 245 8400",
+        "twitter": "neoncactus",
+        "stars_beer": 1,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2.5,
+        "stars_value": 1.5,
+        "tags": "food"
+    },
+    {
+        "_row_id": 65,
+        "name": "Wetherspoon's  Becketts Bank",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1210",
+        "date": "2013-03-16T10:42:35",
+        "excerpt": "Just another Wetherspoon's. Not bad, but there are others available.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/03/20130310_201552.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.798588,
+                -1.5472537
+            ]
+        },
+        "address": "28-30 Park Row\r\nLeeds LS1 5HU",
+        "phone": "0113 394 5900",
+        "twitter": "BeckettsBank",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,breakfast,free wifi,coffee,sofas,arcade games,sports,sunday roasts"
+    },
+    {
+        "_row_id": 66,
+        "name": "The Adelphi",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1217",
+        "date": "2013-03-16T10:47:59",
+        "excerpt": "Beautiful Victorian inn reinvented as a trendy gastropub. If you can brave the crowds, great food and beer await inside.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/03/20130311_181607.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79332,
+                -1.5410793
+            ]
+        },
+        "address": "3-5 Hunslet Road\r\nLeeds LS10 1JQ",
+        "phone": "0113 245 6377",
+        "twitter": "AdelphiLeeds",
+        "stars_beer": 4,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 4.5,
+        "stars_value": 3.5,
+        "tags": "food,beer garden,free wifi,coffee,quiz,sunday roasts"
+    },
+    {
+        "_row_id": 67,
+        "name": "Old Red Lion",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1222",
+        "date": "2013-03-16T11:46:19",
+        "excerpt": "A very pleasant surprise which wrapped up our Brewery Wharf/Dock Street tour. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/03/20130311_194006.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.792973,
+                -1.5421522
+            ]
+        },
+        "address": "Meadow Lane\r\nLeeds LS11 5BJ",
+        "phone": "",
+        "twitter": "",
+        "stars_beer": 3,
+        "stars_atmosphere": 4,
+        "stars_amenities": 2,
+        "stars_value": 4.5,
+        "tags": "pool table"
+    },
+    {
+        "_row_id": 68,
+        "name": "BrewDog",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1256",
+        "date": "2013-03-17T23:12:00",
+        "excerpt": "As if Leeds weren't already awesome enough, we now have a BrewDog Bar! ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/03/20130316_121300.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795536,
+                -1.5397918
+            ]
+        },
+        "address": "White Cloth Hall\r\nCrown Street\r\nLeeds LS2 7RB",
+        "phone": "",
+        "twitter": "BrewDogBarLeeds",
+        "stars_beer": 5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3,
+        "stars_value": 4,
+        "tags": "food,free wifi,sofas"
+    },
+    {
+        "_row_id": 69,
+        "name": "The Duncan",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1281",
+        "date": "2013-04-08T20:47:13",
+        "excerpt": "The last Sam Smith's pub on our crawl; quite frankly better than we expected. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/04/20130406_215710.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795864,
+                -1.5414196
+            ]
+        },
+        "address": "22 Duncan Street\r\nLeeds LS1 6DL",
+        "phone": "245 9916",
+        "twitter": "duncanpub",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 1.5,
+        "stars_amenities": 1.5,
+        "stars_value": 4.5,
+        "tags": "pool table,darts"
+    },
+    {
+        "_row_id": 70,
+        "name": "The Botanist",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1297",
+        "date": "2013-04-10T20:52:33",
+        "excerpt": "One of Trinity's two bars, The Botanist is something a little bit different and has an amazing beer selection to boot.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/04/20130407_192752.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.796318,
+                -1.5434182
+            ]
+        },
+        "address": "67 Boar Lane\r\nLeeds\r\nLS1 6HW",
+        "phone": "0113 205 3240",
+        "twitter": "TheBotanistTL",
+        "stars_beer": 4.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,beer garden,free wifi,coffee,live music,sunday roasts"
+    },
+    {
+        "_row_id": 71,
+        "name": "The Alchemist",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1306",
+        "date": "2013-04-14T11:14:33",
+        "excerpt": "Trinity's swanky cocktail bar has a lot to offer cocktail and food lovers but falls short on the beer side.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/04/20130407_204052.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.7961,
+                -1.5439868
+            ]
+        },
+        "address": "Level 1, Trinity\r\nLS1 6HW\r\nLeeds",
+        "phone": "0113 246 0540",
+        "twitter": "TheAlchemistTL",
+        "stars_beer": 2,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3.5,
+        "stars_value": 2.5,
+        "tags": "food,beer garden,coffee,sofas"
+    },
+    {
+        "_row_id": 72,
+        "name": "Templar Hotel",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1335",
+        "date": "2013-04-17T07:41:20",
+        "excerpt": "Some decent (and well kept) ales, but that's really the only thing this historic pub has got going for it.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/04/20130414_170040.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80007,
+                -1.5393412
+            ]
+        },
+        "address": "Templar Street\r\nLeeds LS2 7NU",
+        "phone": "0113 243 0318",
+        "twitter": "",
+        "stars_beer": 3,
+        "stars_atmosphere": 2,
+        "stars_amenities": 1.5,
+        "stars_value": 4,
+        "tags": "free wifi,sports"
+    },
+    {
+        "_row_id": 73,
+        "name": "it Bar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1341",
+        "date": "2013-04-21T15:22:23",
+        "excerpt": "A new American-style cafe/bar offering ridiculously indulgent food and an OK selection of beer. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/04/20130414_174335.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800476,
+                -1.5410954
+            ]
+        },
+        "address": "57-59 New Briggate\r\nLeeds LS2 8JD",
+        "phone": "0113 246 9080",
+        "twitter": "Itbarleeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,free wifi,coffee,sofas,dance floor,live music"
+    },
+    {
+        "_row_id": 74,
+        "name": "San Lucus",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=1350",
+        "date": "2013-04-21T15:25:38",
+        "excerpt": "This new bar and tapas place has excellent food, but not much to draw us in the way of beer.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/04/20130419_181004.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800873,
+                -1.5505636
+            ]
+        },
+        "address": "40 Great George Street\r\nLeeds LS1 3DL",
+        "phone": "0113 246 1325",
+        "twitter": "sanlucus",
+        "stars_beer": 2,
+        "stars_atmosphere": 3,
+        "stars_amenities": 3.5,
+        "stars_value": 3.5,
+        "tags": "food,beer garden,coffee,sofas"
+    },
+    {
+        "_row_id": 75,
+        "name": "The Hop",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1369",
+        "date": "2013-04-23T21:20:19",
+        "excerpt": "This legendary indie music pub in Granary Wharf has a great beers and an unmissable deal from the  Hole.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/04/20130422_180129.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79373,
+                -1.5491514
+            ]
+        },
+        "address": "The Dark Arches\r\nDark Neville Street\r\nLeeds LS1 4BR",
+        "phone": "0113 243 9854",
+        "twitter": "thehopleeds",
+        "stars_beer": 4,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3.5,
+        "stars_value": 4.5,
+        "tags": "food,beer garden,free wifi,coffee,live music,quiz"
+    },
+    {
+        "_row_id": 76,
+        "name": "LIVIN'italy",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1375",
+        "date": "2013-04-23T21:24:19",
+        "excerpt": "Wine bar, deli and restaurant all merged into one. Limited selection of beers, but they're so good!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/04/20130422_190922.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79374,
+                -1.5489566
+            ]
+        },
+        "address": "Granary Wharf\r\nLeeds LS1 4BR",
+        "phone": "0113 243 0090",
+        "twitter": "LIVINitaly_LS1",
+        "stars_beer": 3,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3.5,
+        "stars_value": 2,
+        "tags": "food,breakfast,beer garden,free wifi,coffee"
+    },
+    {
+        "_row_id": 77,
+        "name": "\"Golf\" Cafe Bar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1382",
+        "date": "2013-04-27T14:44:22",
+        "excerpt": "FORE! You can play \"golf\" here and enjoy a nice bottled ale. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/04/20130422_204442.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.793495,
+                -1.5478653
+            ]
+        },
+        "address": "1 Little Neville Street\r\nGranary Wharf\r\nLeeds LS1 4ED",
+        "phone": "0113 244 4428",
+        "twitter": "GolfCafeBar",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3.5,
+        "stars_value": 2.5,
+        "tags": "food,beer garden,free wifi,coffee,sports"
+    },
+    {
+        "_row_id": 78,
+        "name": "Sam's Chop House",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=1421",
+        "date": "2013-04-30T13:51:47",
+        "excerpt": "A traditional English eatery in the heart of town with good food and service but not much in the way of beer.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/04/20130427_173955.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.7992,
+                -1.5489113
+            ]
+        },
+        "address": "8 South Parade\r\nLeeds LS1 5QX",
+        "phone": "0113 204 2490",
+        "twitter": "chophouseLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3,
+        "stars_value": 3,
+        "tags": "food,coffee,live music,sunday roasts"
+    },
+    {
+        "_row_id": 79,
+        "name": "Revolution  The Electric Press",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1435",
+        "date": "2013-05-05T19:48:59",
+        "excerpt": "A great place to go if you like vodka and crowds. Otherwise  Millennium Square has better things to offer. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/05/20130502_180055.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80128,
+                -1.5476067
+            ]
+        },
+        "address": "41 Cookridge Street \r\nMillennium Square\r\nLeeds LS2 3AW",
+        "phone": "0113 380 4992",
+        "twitter": "RevolutionLeeds",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 1.5,
+        "stars_amenities": 3,
+        "stars_value": 2,
+        "tags": "food,beer garden,free wifi,coffee,membership discount,dance floor,sunday roasts"
+    },
+    {
+        "_row_id": 80,
+        "name": "Fibre",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1451",
+        "date": "2013-05-09T07:40:03",
+        "excerpt": "This gay-friendly cafe-bar crossover has a lot going for it, but sadly not its beer selection.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/05/20130506_195831.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79528,
+                -1.5423506
+            ]
+        },
+        "address": "168 Lower Briggate\r\nLeeds LS1 6LY",
+        "phone": "08701 200 888",
+        "twitter": "BarFibreLeeds",
+        "stars_beer": 1,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 4,
+        "stars_value": 3.5,
+        "tags": "food,breakfast,beer garden,free wifi,coffee,lgbt"
+    },
+    {
+        "_row_id": 81,
+        "name": "1871 Bar & Lounge",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1455",
+        "date": "2013-05-16T16:10:30",
+        "excerpt": "Not much going on here beer-wise, but they do serve food on a Sunday evening  quite a rarity amongst city centre bars. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/05/20130506_205930.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79589,
+                -1.5433109
+            ]
+        },
+        "address": "7-9 Boar Lane \r\nLeeds LS1 5DD",
+        "phone": "0845 200 1871",
+        "twitter": "1871BarLeeds",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2.5,
+        "stars_value": 1.5,
+        "tags": "food,free wifi,coffee"
+    },
+    {
+        "_row_id": 82,
+        "name": "Peachy Keens",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1481",
+        "date": "2013-05-20T06:48:37",
+        "excerpt": "Not much to sell this place to us. Good if you want dancing-related events, I guess.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/05/20130513_193820.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.801258,
+                -1.5478331
+            ]
+        },
+        "address": "The Electric Press\r\nGreat George Street\r\nLeeds LS2 3AD",
+        "phone": "0113 246 9241",
+        "twitter": "",
+        "stars_beer": 2,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3,
+        "stars_value": 3,
+        "tags": "food,beer garden,sofas,dance floor"
+    },
+    {
+        "_row_id": 83,
+        "name": "All Bar One  The Electric Press",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1482",
+        "date": "2013-05-16T21:14:25",
+        "excerpt": "A chain bar with a surprisingly appealing selection of beer. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/05/20130513_193606.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.801228,
+                -1.5484293
+            ]
+        },
+        "address": "Unit D\r\nElectric Press\r\nLeeds LS2 3AD",
+        "phone": "0113 244 8835",
+        "twitter": "YourAllBarOne",
+        "stars_beer": 3,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 4,
+        "stars_value": 2.5,
+        "tags": "food,breakfast,beer garden,free wifi,coffee"
+    },
+    {
+        "_row_id": 84,
+        "name": "Epernay",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1484",
+        "date": "2013-05-20T06:48:50",
+        "excerpt": "This champagne bar is good if you want to choose your Ilkley beer by the colour of the bottle.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/05/20130513_193829.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800964,
+                -1.5480592
+            ]
+        },
+        "address": "12 Great George Street\r\nLeeds LS1 3DW",
+        "phone": "0113 242 9977",
+        "twitter": "epernayleeds",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2,
+        "stars_value": 2,
+        "tags": "food,beer garden"
+    },
+    {
+        "_row_id": 85,
+        "name": "The White Swan",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1549",
+        "date": "2013-05-23T22:05:18",
+        "excerpt": "This historic pub has a new lease of life under Leeds Brewery, with a great beer selection and atmosphere to boot.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/05/20130521_175131.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79894,
+                -1.5428495
+            ]
+        },
+        "address": "Swan Street\r\nLeeds LS1 6LG  ",
+        "phone": "0113 242 0187",
+        "twitter": "whiteswanleeds",
+        "stars_beer": 4,
+        "stars_atmosphere": 4,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,beer garden,coffee,sofas,live music,quiz"
+    },
+    {
+        "_row_id": 86,
+        "name": "Aire Bar",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1568",
+        "date": "2013-06-05T22:02:07",
+        "excerpt": "Looks like a gym on the outside, but exercise kit is about the only thing you won't find in here!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/06/IMAG0035.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794872,
+                -1.5391223
+            ]
+        },
+        "address": "Sparrows Wharf\r\n32 The Calls\r\nLeeds LS2 7EW",
+        "phone": "0113 245 5500",
+        "twitter": "",
+        "stars_beer": 3,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 4.5,
+        "stars_value": 2,
+        "tags": "food,breakfast,beer garden,free wifi,sofas,arcade games,sports,pool table"
+    },
+    {
+        "_row_id": 87,
+        "name": "Stew & Oyster  Calls Landing ",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1586",
+        "date": "2013-06-06T16:57:48",
+        "excerpt": "A picturesque spot on The Calls, offering a couple of real ales and absolutely flush with craft bottles. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/06/IMAG0037.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79467,
+                -1.5384572
+            ]
+        },
+        "address": "36-38 The Calls \r\nLeeds LS2 7EW",
+        "phone": "0113 242 5299",
+        "twitter": "CallsLanding",
+        "stars_beer": 4.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,beer garden,coffee,sofas,quiz"
+    },
+    {
+        "_row_id": 88,
+        "name": "Fox & Newt",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1595",
+        "date": "2013-06-09T21:37:15",
+        "excerpt": "The only pub in the city centre to brew its own cask ale, and that's not even the best thing about it.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/06/IMG_20130604_180203.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800045,
+                -1.5594819
+            ]
+        },
+        "address": "9 Burley Street\r\nLeeds LS3 1LD",
+        "phone": "07506 741039",
+        "twitter": "",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 4.5,
+        "stars_value": 4,
+        "tags": "food,beer garden,free wifi,coffee,sofas,arcade games,live music,jukebox"
+    },
+    {
+        "_row_id": 89,
+        "name": "Brooklyn Bar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1596",
+        "date": "2013-06-09T21:38:19",
+        "excerpt": "Not the best beer in Leeds, by any means, but quite possibly the best beer on Call Lane. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/06/IMG_20130605_175008.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79518,
+                -1.5412519
+            ]
+        },
+        "address": "50 Call Lane \r\nLeeds LS1 6DT",
+        "phone": "0113 322 9919 ",
+        "twitter": "",
+        "stars_beer": 3,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2.5,
+        "stars_value": 3,
+        "tags": "food,beer garden,free wifi,sofas"
+    },
+    {
+        "_row_id": 90,
+        "name": "Wetherspoon's  The Hedley Verity",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1636",
+        "date": "2013-06-21T20:01:41",
+        "excerpt": "It's a Wetherspoon's. See all our other reviews of Wetherspoon's.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/06/IMG_20130613_184746.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.802025,
+                -1.5457463
+            ]
+        },
+        "address": "43a Woodhouse Lane\r\nLeeds LS2 8JT",
+        "phone": "0113 390 7590",
+        "twitter": "HedleyVerityBar",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 4,
+        "stars_value": 4,
+        "tags": "food,breakfast,beer garden,free wifi,coffee,sofas,arcade games,sunday roasts"
+    },
+    {
+        "_row_id": 91,
+        "name": "Crowd of Favours",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1651",
+        "date": "2013-06-23T20:44:49",
+        "excerpt": "A June 2013 addition to the Leeds Brewery family, this charming spot has some great beer and a true crowd of amenities. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/06/IMG_20130622_162738.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79617,
+                -1.5376812
+            ]
+        },
+        "address": "Harper Street \r\nLeeds LS2 7EA",
+        "phone": "",
+        "twitter": "CrowdofFavours",
+        "stars_beer": 4,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3.5,
+        "stars_value": 3,
+        "tags": "food,breakfast,coffee,sofas,dance floor,quiz"
+    },
+    {
+        "_row_id": 92,
+        "name": "Duck & Drake",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1675",
+        "date": "2013-06-27T08:23:00",
+        "excerpt": "The famous live music venue also has an amazing beer terrace and a ridiculous number of cask ales.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/06/IMG_20130625_174445.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795982,
+                -1.5377909
+            ]
+        },
+        "address": "43 Kirkgate\r\nLeeds LS2 7DR",
+        "phone": "0113 245 5432",
+        "twitter": "",
+        "stars_beer": 4,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3,
+        "stars_value": 3.5,
+        "tags": "beer garden,dance floor,arcade games,live music"
+    },
+    {
+        "_row_id": 93,
+        "name": "Wax Bar & Jukejoint",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1720",
+        "date": "2013-07-15T21:29:19",
+        "excerpt": "They've captured the retro atmosphere of the 80s very well. Shame beer wasn't very good in the 80s.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/07/IMG_20130710_192221.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.799385,
+                -1.5417016
+            ]
+        },
+        "address": "20 New Briggate\r\nLeeds LS1 6NU",
+        "phone": "0113 242 9442",
+        "twitter": "WaxBarLeeds",
+        "stars_beer": 2,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 1,
+        "stars_value": 2.5,
+        "tags": "jukebox"
+    },
+    {
+        "_row_id": 94,
+        "name": "Sela",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1729",
+        "date": "2013-07-15T21:28:53",
+        "excerpt": "Leeds's best bet if you're looking for live jazz, and not bad odds if you're looking for good beer. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/07/IMG_20130710_180652.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.799408,
+                -1.5416851
+            ]
+        },
+        "address": "20 New Briggate \r\nLeeds LS1 6NU",
+        "phone": "0113 242 9442",
+        "twitter": "selabar",
+        "stars_beer": 4,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3,
+        "stars_value": 2.5,
+        "tags": "food,coffee,dance floor,live music"
+    },
+    {
+        "_row_id": 95,
+        "name": "Browns Bar & Brasserie",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1738",
+        "date": "2013-07-15T21:35:44",
+        "excerpt": "Part of a southern chain that seems to have left the north behind. Should be posh, but really isn't.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/07/IMG_20130714_203916.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.799725,
+                -1.5468407
+            ]
+        },
+        "address": "The Light \r\nThe Headrow \r\nLeeds LS1 8EQ",
+        "phone": "0113 243 9353",
+        "twitter": "BrownsLeeds",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2,
+        "stars_value": 1.5,
+        "tags": "food,coffee,sunday roasts"
+    },
+    {
+        "_row_id": 96,
+        "name": "Baby Jupiter",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=1768",
+        "date": "2013-07-31T21:23:49",
+        "excerpt": "Great beer choice and a well-executed 1960s theme make this one of the financial quarter's best offerings. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/07/IMG_20130723_205926.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.796963,
+                -1.5521841
+            ]
+        },
+        "address": "11 York Place  \r\nLeeds LS1 2DS\r\n",
+        "phone": "0113 242 1202",
+        "twitter": "babyjupiterbar",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3.5,
+        "stars_value": 2.5,
+        "tags": "food,dance floor,live music,quiz"
+    },
+    {
+        "_row_id": 97,
+        "name": "The Northern Monkey",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=1770",
+        "date": "2013-07-30T07:19:16",
+        "excerpt": "A friendly, unpretentious Northern stereotype, with amazing burgers. Shame about the terrible beer selection!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/07/IMG_20130724_130306.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.799446,
+                -1.5460253
+            ]
+        },
+        "address": "115 The Headrow\r\nLeeds LS1 5JW",
+        "phone": "0113 242 6630",
+        "twitter": "NorthernMonkey0",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,breakfast,dance floor,sports,live music,sunday roasts,jukebox"
+    },
+    {
+        "_row_id": 98,
+        "name": "Bad Apples",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1803",
+        "date": "2013-08-09T07:12:35",
+        "excerpt": "Very dark rock bar where you can get 15% off for being a wanker.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/08/IMG_20130803_204005.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79638,
+                -1.539824
+            ]
+        },
+        "address": "7 Call Lane\r\nLeeds LS1 7DH",
+        "phone": "07872 648781",
+        "twitter": "badapplesbar",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 1.5,
+        "stars_value": 3,
+        "tags": "sofas,live music,jukebox"
+    },
+    {
+        "_row_id": 99,
+        "name": "Players Sports Bar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1815",
+        "date": "2013-08-18T20:02:48",
+        "excerpt": "A shitty nightclub with shitty beer.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/08/IMG_20130814_202539.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800476,
+                -1.5450838
+            ]
+        },
+        "address": "The Cube\r\nAlbion Street\r\nLeeds LS2 8ER",
+        "phone": "",
+        "twitter": "PlayersBarLeeds",
+        "stars_beer": 1,
+        "stars_atmosphere": 0.5,
+        "stars_amenities": 1,
+        "stars_value": 2.5,
+        "tags": "dance floor"
+    },
+    {
+        "_row_id": 100,
+        "name": "Friends of Ham",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1827",
+        "date": "2013-08-21T06:44:52",
+        "excerpt": "Our 100th review is somewhere very special indeed. Are you a friend of ham yet?",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/08/IMG_20130818_165056.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79554,
+                -1.545049
+            ]
+        },
+        "address": "4 New Station Street\r\nLeeds LS1 5DL",
+        "phone": "0113 242 0275",
+        "twitter": "friendsofham",
+        "stars_beer": 5,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 3,
+        "stars_value": 4,
+        "tags": "food,free wifi,sofas"
+    },
+    {
+        "_row_id": 101,
+        "name": "Mook",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1842",
+        "date": "2013-08-22T20:26:08",
+        "excerpt": "Huge unpretentious bar/club. Look out for Jesus.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/08/IMG_20130820_202931.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795692,
+                -1.5418732
+            ]
+        },
+        "address": "Hirst's Yard\r\nLeeds LS1 6NJ",
+        "phone": "0113 245 9967",
+        "twitter": "mookleeds",
+        "stars_beer": 2,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 2,
+        "stars_value": 2,
+        "tags": "beer garden,dance floor"
+    },
+    {
+        "_row_id": 102,
+        "name": "51% Bourbon Lounge",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1843",
+        "date": "2013-08-22T20:29:53",
+        "excerpt": "As the name suggests, the raison d'etre of this spot is bourbon, but there are enough good American crafts to keep us happy. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/08/IMG_20130820_211253.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79568,
+                -1.5416881
+            ]
+        },
+        "address": "11 - 15 Hirst's Yard\r\nLeeds LS1 6NJ",
+        "phone": "0113 322 9919",
+        "twitter": "51_Bourbon",
+        "stars_beer": 3,
+        "stars_atmosphere": 4,
+        "stars_amenities": 2,
+        "stars_value": 3,
+        "tags": "free wifi"
+    },
+    {
+        "_row_id": 103,
+        "name": "Cosmopolitan Hotel",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1871",
+        "date": "2013-08-28T20:58:58",
+        "excerpt": "There is nothing exceptional about the Cosmopolitan. An unexceptional beer selection in unexceptional surroundings.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/08/IMG_20130823_175453.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794525,
+                -1.5425115
+            ]
+        },
+        "address": "Lower Briggate \r\nLeeds LS1 4AE\r\n",
+        "phone": "0113 243 6454",
+        "twitter": "cosmoleeds",
+        "stars_beer": 2,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3,
+        "stars_value": 2,
+        "tags": "food,breakfast,coffee"
+    },
+    {
+        "_row_id": 104,
+        "name": "Three Legs",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1876",
+        "date": "2013-08-29T06:33:31",
+        "excerpt": "Ugh. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/08/IMG_20130825_190638.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79885,
+                -1.5405034
+            ]
+        },
+        "address": "11 The Headrow \r\nLeeds LS1 6PU",
+        "phone": "0113 245 6316",
+        "twitter": "",
+        "stars_beer": 1,
+        "stars_atmosphere": 1,
+        "stars_amenities": 2,
+        "stars_value": 2.5,
+        "tags": "karaoke,arcade games,pool table,jukebox"
+    },
+    {
+        "_row_id": 105,
+        "name": "Lounge Bar & Grill",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=1883",
+        "date": "2013-08-29T06:41:02",
+        "excerpt": "This truly amazing building hides a pub with a decent enough beer selection and a great terrace. Shame about the interior design.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/08/IMG_20130826_135841.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80048,
+                -1.5419403
+            ]
+        },
+        "address": "St Johns House\r\nMerrion Street\r\nLeeds LS2 8JE",
+        "phone": "0113 244 4234",
+        "twitter": "LoungeBarGrill",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 4.5,
+        "stars_value": 3,
+        "tags": "food,beer garden,free wifi,coffee,sofas,quiz,sunday roasts"
+    },
+    {
+        "_row_id": 106,
+        "name": "The Pit",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1915",
+        "date": "2013-09-04T20:10:13",
+        "excerpt": "True to its name, this underground venue offers a great range of craft kegs and bottles, as well as ping pong and American-style BBQ. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/09/IMG_20130902_210537.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800343,
+                -1.5399098
+            ]
+        },
+        "address": "9 Merrion Street\r\nLeeds LS1 6PQ",
+        "phone": "0113 247 0601",
+        "twitter": "ThePitLeeds",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3.5,
+        "stars_value": 2.5,
+        "tags": "food,coffee,dance floor"
+    },
+    {
+        "_row_id": 107,
+        "name": "The Faversham",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1939",
+        "date": "2013-09-15T10:56:44",
+        "excerpt": "Surprising little upmarket craft beer house right on the edge of the University campus.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/09/IMG_20130910_174903.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80435,
+                -1.5573227
+            ]
+        },
+        "address": "1-5 Springfield Mount\r\nLeeds LS2 9NG",
+        "phone": " 0113 243 1481",
+        "twitter": "thefaversham",
+        "stars_beer": 4,
+        "stars_atmosphere": 4,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,beer garden,coffee,sofas,dance floor,live music"
+    },
+    {
+        "_row_id": 108,
+        "name": "The Shed Bar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1947",
+        "date": "2013-09-15T12:35:57",
+        "excerpt": "Friendly indie music bar in a railway arch.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/09/IMG_20130911_195226.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794727,
+                -1.5430748
+            ]
+        },
+        "address": "6 Heatons Court\r\nLeeds LS1 4LJ",
+        "phone": "0113 244 1198",
+        "twitter": "theshedbar",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 2.5,
+        "stars_value": 3.5,
+        "tags": "beer garden"
+    },
+    {
+        "_row_id": 109,
+        "name": "Bibis Italianissimo",
+        "category": "Other reviews",
+        "url": "http://leedsbeer.info/?p=1951",
+        "date": "2013-09-17T08:19:13",
+        "excerpt": "If it walks like a cruise ship and talks like a cruise ship, it's probably Bibis Italianissimo. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/09/IMG_20130911_205310.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794353,
+                -1.544447
+            ]
+        },
+        "address": "Criterion Place\r\nSovereign Street\r\nLeeds LS1 4AG",
+        "phone": "0113 243 0905",
+        "twitter": "BibisRestaurant",
+        "stars_beer": 2,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3.5,
+        "stars_value": 2,
+        "tags": "food,free wifi,coffee,dance floor,live music"
+    },
+    {
+        "_row_id": 110,
+        "name": "The Brewery Tap",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=1977",
+        "date": "2013-09-21T11:18:02",
+        "excerpt": "There aren't many pubs that can claim to brew a popular lager on site.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/09/IMG_20130915_140831.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795147,
+                -1.5451723
+            ]
+        },
+        "address": "18 New Station Street\r\nLeeds LS1 5DL",
+        "phone": "0113 243 4414",
+        "twitter": "brewerytapleeds",
+        "stars_beer": 4,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 2.5,
+        "stars_value": 3.5,
+        "tags": "food,coffee"
+    },
+    {
+        "_row_id": 111,
+        "name": "The Merchant",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=1983",
+        "date": "2013-09-26T21:02:00",
+        "excerpt": "A student chain pub, serving dirty food and dirty beer. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/09/IMG_20130917_174757.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80122,
+                -1.544735
+            ]
+        },
+        "address": "20-24 Woodhouse Lane \r\nLeeds LS2 8LX\r\n",
+        "phone": "0113 244 1212",
+        "twitter": "VarsityLeeds",
+        "stars_beer": 1,
+        "stars_atmosphere": 1,
+        "stars_amenities": 2,
+        "stars_value": 2.5,
+        "tags": "food,beer garden,free wifi,coffee,arcade games"
+    },
+    {
+        "_row_id": 112,
+        "name": "Brooklyn Brewery Popup",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=1997",
+        "date": "2013-09-26T21:21:06",
+        "excerpt": "Here for 6 weeks. Drink all the beer and fast!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/09/IMG_20130926_202545.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795025,
+                -1.5397596
+            ]
+        },
+        "address": "20-24 The Calls\r\nLeeds LS2 7EW",
+        "phone": "",
+        "twitter": "BrooklynBrewery",
+        "stars_beer": 4,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2,
+        "stars_value": 3,
+        "tags": ""
+    },
+    {
+        "_row_id": 113,
+        "name": "Belgrave Music Hall & Canteen",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2015",
+        "date": "2013-10-13T20:26:25",
+        "excerpt": "It's like someone reached inside our brains and constructed a place out of all our favourite things.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/10/IMG_20131006_182858.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800823,
+                -1.5410471
+            ]
+        },
+        "address": "1-1A Cross Belgrave Street\r\nLeeds LS2 8JP",
+        "phone": "0113 234 6160",
+        "twitter": "Belgrave_Leeds",
+        "stars_beer": 4,
+        "stars_atmosphere": 4,
+        "stars_amenities": 4.5,
+        "stars_value": 3,
+        "tags": "food,beer garden,sofas,live music"
+    },
+    {
+        "_row_id": 114,
+        "name": "West Riding",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2031",
+        "date": "2013-10-20T16:58:25",
+        "excerpt": "A nicely renovated pub right near the station, with a rather lacklustre selection of beer. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/10/IMG_20131014_174052.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79627,
+                -1.5495586
+            ]
+        },
+        "address": "38 Wellington Street\r\nLeeds LS1 2DJ",
+        "phone": "0113 246 8772",
+        "twitter": "",
+        "stars_beer": 2,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3.5,
+        "stars_value": 3.5,
+        "tags": "food,beer garden,coffee,jukebox"
+    },
+    {
+        "_row_id": 115,
+        "name": "Bierkeller",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2043",
+        "date": "2013-10-20T18:43:47",
+        "excerpt": "An authentic Bavarian bar constructed in the mind of someone who has seen Bavarian bars on the telly.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/10/IMG_20131015_180021.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.799168,
+                -1.5472162
+            ]
+        },
+        "address": "1 South Parade\r\nLeeds LS1 5QL",
+        "phone": "08455 333 000",
+        "twitter": "LeedsBierkeller",
+        "stars_beer": 3,
+        "stars_atmosphere": 1.5,
+        "stars_amenities": 2,
+        "stars_value": 2.5,
+        "tags": "food,membership discount,live music"
+    },
+    {
+        "_row_id": 116,
+        "name": "Blind Tyger Drinking Den",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2052",
+        "date": "2013-11-03T17:04:19",
+        "excerpt": "Pretension, pretension, burning bright... ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/11/IMG_20131029_182820.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80091,
+                -1.541027
+            ]
+        },
+        "address": "5 1/2 Cross Belgrave Street\r\nLeeds LS2 8JP",
+        "phone": "0113 245 7700",
+        "twitter": "BlindTygerLeeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 3,
+        "stars_amenities": 1.5,
+        "stars_value": 2.5,
+        "tags": ""
+    },
+    {
+        "_row_id": 117,
+        "name": "Shears Yard",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2060",
+        "date": "2013-11-03T16:59:49",
+        "excerpt": "This new place does very well for an establishment that's primarily restaurant.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/11/IMG_20131026_180249.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79528,
+                -1.5383434
+            ]
+        },
+        "address": "11-15 Wharf Street\r\nLeeds LS2 7EH",
+        "phone": "0113 244 4144",
+        "twitter": "ShearsYard",
+        "stars_beer": 4,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2,
+        "stars_value": 3.5,
+        "tags": "food,coffee"
+    },
+    {
+        "_row_id": 118,
+        "name": "Smokestack",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2076",
+        "date": "2013-11-09T18:08:29",
+        "excerpt": "Chilled out speakeasy-style bar with great music and decent beer. Very dark.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/11/IMG_20131103_191153.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79557,
+                -1.5423024
+            ]
+        },
+        "address": "159a Lower Briggate\r\nLeeds LS1 6LY",
+        "phone": "0113 245 2222",
+        "twitter": "SmokestackLeeds",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3,
+        "stars_value": 2.5,
+        "tags": "food,sofas,dance floor,live music"
+    },
+    {
+        "_row_id": 119,
+        "name": "Notes",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=2087",
+        "date": "2013-11-13T19:35:50",
+        "excerpt": "If you're in Trinity Kitchen and want a bottle of ale, this is the place to go. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/11/IMG_20131110_135234.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.797253,
+                -1.5454245
+            ]
+        },
+        "address": "TK6 Trinity Kitchen                                 Leeds LS1 5AY",
+        "phone": "",
+        "twitter": "NotesLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3.5,
+        "stars_value": 2,
+        "tags": "food,free wifi,coffee"
+    },
+    {
+        "_row_id": 120,
+        "name": "PizzaLuxe",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2093",
+        "date": "2013-11-29T14:02:13",
+        "excerpt": "The only place to get draught beer in Trinity Kitchen.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/11/IMG_20131110_142514.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.797215,
+                -1.5454084
+            ]
+        },
+        "address": "Trinity Kitchen\r\n27 Albion Street\r\nLeeds LS1 5ER",
+        "phone": "0113 247 1171",
+        "twitter": "PizzaLuxe",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3.5,
+        "stars_value": 2.5,
+        "tags": "food,free wifi,coffee"
+    },
+    {
+        "_row_id": 121,
+        "name": "360 Champagne & Cocktails",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2098",
+        "date": "2013-11-16T21:47:20",
+        "excerpt": "Circular champagne bar is nice, but with a poor beer selection.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/11/IMG_20131110_150923.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.7973,
+                -1.545344
+            ]
+        },
+        "address": "Trinity Kitchen\r\nAlbion Street\r\nLeeds LS1 5AT",
+        "phone": "",
+        "twitter": "360_Trinity",
+        "stars_beer": 1,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2.5,
+        "stars_value": 3,
+        "tags": "free wifi,coffee"
+    },
+    {
+        "_row_id": 122,
+        "name": "Shooters Sports Bar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2121",
+        "date": "2013-12-09T21:24:00",
+        "excerpt": "This place has an awesomely good array of sports, and an awesomely bad array of beers. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/12/IMG_20131129_163913.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79942,
+                -1.5471759
+            ]
+        },
+        "address": "123 The Headrow \r\nLeeds LS1 5RD",
+        "phone": "08455 333 000",
+        "twitter": "LeedsShooters",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 2,
+        "stars_amenities": 3,
+        "stars_value": 2.5,
+        "tags": "food,arcade games,sports,pool table,darts"
+    },
+    {
+        "_row_id": 123,
+        "name": "Around the World in 80 Beers",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2123",
+        "date": "2013-12-09T21:23:39",
+        "excerpt": "They really do have a lot of beers from around the world!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/12/IMG_20131129_162024.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.799423,
+                -1.5473208
+            ]
+        },
+        "address": "123 The Headrow\r\nLeeds LS1 5RD",
+        "phone": "0845 533 3000",
+        "twitter": "Leeds80BeersBar",
+        "stars_beer": 4,
+        "stars_atmosphere": 2,
+        "stars_amenities": 2,
+        "stars_value": 2,
+        "tags": "food,free wifi,dance floor"
+    },
+    {
+        "_row_id": 124,
+        "name": "Tapped Brew Co.",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2145",
+        "date": "2013-12-14T10:12:10",
+        "excerpt": "This new brewpub is all about the beer. And they've got it nailed.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/12/IMG_20131210_181816.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795963,
+                -1.5458804
+            ]
+        },
+        "address": "51 Boar Lane\r\nLeeds LS1 5EL",
+        "phone": "",
+        "twitter": "TappedLeeds",
+        "stars_beer": 5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 4,
+        "stars_value": 5,
+        "tags": "food,free wifi,coffee"
+    },
+    {
+        "_row_id": 125,
+        "name": "Lazy Lounge",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2155",
+        "date": "2013-12-22T10:30:10",
+        "excerpt": "A popular corporate-ish spot with a recently improved selection of brews. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2013/12/IMG_20131214_211033.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79583,
+                -1.553333
+            ]
+        },
+        "address": "West Point \r\nWellington Street \r\nLeeds LS1 4JY ",
+        "phone": "0113 244 6055",
+        "twitter": "LazyLounge",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3.5,
+        "stars_value": 2.5,
+        "tags": "food,beer garden,free wifi,coffee,sofas"
+    },
+    {
+        "_row_id": 126,
+        "name": "Chilli White",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2167",
+        "date": "2014-01-05T15:12:43",
+        "excerpt": "Imagine Yates's was a nightclub.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/01/IMG_20140104_192127.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795696,
+                -1.5394807
+            ]
+        },
+        "address": "Assembly Street\r\nLeeds LS2 7DA",
+        "phone": "0113 219 4001",
+        "twitter": "ChilliWhiteLDS",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 1,
+        "stars_amenities": 1.5,
+        "stars_value": 3,
+        "tags": "dance floor"
+    },
+    {
+        "_row_id": 127,
+        "name": "Roast + Conch",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2169",
+        "date": "2014-01-05T18:35:41",
+        "excerpt": "How many different ways can you use chocolate? Quite a few, it turns out.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/01/IMG_20140104_200919.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795868,
+                -1.545124
+            ]
+        },
+        "address": "55 Boar Lane\r\nLeeds LS1 5EL",
+        "phone": "",
+        "twitter": "RoastandConch",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 3,
+        "stars_value": 2,
+        "tags": "food,free wifi,coffee"
+    },
+    {
+        "_row_id": 128,
+        "name": "Roxy Ball Room",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2193",
+        "date": "2014-01-08T20:30:37",
+        "excerpt": "A huge new venue with ping pong, pool and bowling, along with some great beer choices! ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/01/IMG_20140104_210210.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795986,
+                -1.5448855
+            ]
+        },
+        "address": "1st Floor Trinity Square \r\nLeeds LS1 6HW",
+        "phone": "0113 322 1781",
+        "twitter": "RoxyBallRoom",
+        "stars_beer": 4,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3.5,
+        "stars_value": 3.5,
+        "tags": "food,pool table"
+    },
+    {
+        "_row_id": 129,
+        "name": "Atlas Pub",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2203",
+        "date": "2014-01-17T08:00:53",
+        "excerpt": "A self-proclaimed \"London-style pub\". They're right, too.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/01/IMG_20140115_123655.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.797745,
+                -1.5498742
+            ]
+        },
+        "address": "31 King Street\r\nLeeds LS1 2HL",
+        "phone": "0113 244 2906",
+        "twitter": "AtlasPubLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 2,
+        "stars_amenities": 3,
+        "stars_value": 2.5,
+        "tags": "food,coffee,sofas"
+    },
+    {
+        "_row_id": 130,
+        "name": "The Living Room",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=2214",
+        "date": "2014-01-23T22:41:53",
+        "excerpt": "An astoundingly uninteresting Greek Street venue, with a beer selection to match. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/01/IMG_20140120_175711.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.798485,
+                -1.5473658
+            ]
+        },
+        "address": "5-7 Greek Street\r\nLeeds LS1 5RW",
+        "phone": "0113 380 0930\t",
+        "twitter": "LivingRoomLeeds",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 2,
+        "stars_amenities": 2,
+        "stars_value": 3,
+        "tags": "food,coffee,live music"
+    },
+    {
+        "_row_id": 131,
+        "name": "Everyman Cinema & Pizzeria",
+        "category": "Other reviews",
+        "url": "http://leedsbeer.info/?p=2226",
+        "date": "2014-02-01T17:38:32",
+        "excerpt": "Not your average cinema, Everyman makes an effort to appeal to casual drinkers and is surprisingly pleasant.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/02/IMG_20140127_175233.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.796627,
+                -1.5441155
+            ]
+        },
+        "address": "Level 4\r\nTrinity Leeds\r\nAlbion Street\r\nLeeds LS1 5AT",
+        "phone": "020 3542 8904",
+        "twitter": "Everymancinema",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3.5,
+        "stars_value": 2,
+        "tags": "food,beer garden,coffee,sofas"
+    },
+    {
+        "_row_id": 132,
+        "name": "The Maven",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2240",
+        "date": "2014-02-11T21:26:15",
+        "excerpt": "A speakeasy with plenty of atmosphere and cocktails, just not too much in the way of beer. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/02/IMG_20140202_184931.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79643,
+                -1.5397965
+            ]
+        },
+        "address": "First Floor \r\n1 Call Lane\r\nLeeds LS1 7DH \r\n",
+        "phone": "0113 243 6047",
+        "twitter": "TheMavenBar",
+        "stars_beer": 1,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 2,
+        "stars_value": 3.5,
+        "tags": ""
+    },
+    {
+        "_row_id": 133,
+        "name": "The Social",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2253",
+        "date": "2014-02-15T17:38:15",
+        "excerpt": "A new addition to the city from some of our favourite people. Great beer and great atmosphere!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/02/IMG_20140213_174434.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800503,
+                -1.5417069
+            ]
+        },
+        "address": "21 Merrion Street\r\nLeeds LS2 8JE",
+        "phone": "",
+        "twitter": "thesocialleeds",
+        "stars_beer": 4,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 3,
+        "stars_value": 4.5,
+        "tags": ""
+    },
+    {
+        "_row_id": 134,
+        "name": "The Tetley Bar and Kitchen",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2267",
+        "date": "2014-03-02T17:36:19",
+        "excerpt": "The headquarters of the old Tetley Brewery  now an art space, bar and restaurant. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/02/IMG_20140221_175036.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79218,
+                -1.5396509
+            ]
+        },
+        "address": "Hunslet Road \r\nLeeds\r\nLS10 1JQ",
+        "phone": "0113 320 2323",
+        "twitter": "T_BarAndKitchen",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 4,
+        "stars_value": 2.5,
+        "tags": "food,breakfast,free wifi,coffee,sofas"
+    },
+    {
+        "_row_id": 135,
+        "name": "Queens Court",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2277",
+        "date": "2014-03-02T17:39:02",
+        "excerpt": "This extremely popular LGBT bar is very welcoming and friendly, but the beer selection is dreadful.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/03/IMG_20140225_175236.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795334,
+                -1.5422143
+            ]
+        },
+        "address": "167-168 Lower Briggate\r\nLeeds LS1 6LY",
+        "phone": "0113 245 9449",
+        "twitter": "queenscrtlds",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3.5,
+        "stars_value": 3.5,
+        "tags": "food,beer garden,sofas,dance floor,lgbt"
+    },
+    {
+        "_row_id": 136,
+        "name": "Tiger Tiger",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2294",
+        "date": "2014-03-14T08:42:59",
+        "excerpt": "The centre of Leeds's nightlife couldn't be further from the centre of our lives.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/03/IMG_20140310_174942.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800022,
+                -1.5450919
+            ]
+        },
+        "address": "The Light\r\n117 Albion St\r\nLeeds LS2 8DY",
+        "phone": "0113 236 6999",
+        "twitter": "TigerLeeds",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 1,
+        "stars_amenities": 3.5,
+        "stars_value": 2,
+        "tags": "food,free wifi,coffee,dance floor,karaoke"
+    },
+    {
+        "_row_id": 137,
+        "name": "All Bar One  Greek Street",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2305",
+        "date": "2014-03-17T23:03:33",
+        "excerpt": "One of the two All Bar Ones in Leeds, and definitely the less interesting of the two.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/03/IMG_20140310_184308.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.798504,
+                -1.5490319
+            ]
+        },
+        "address": "27 East Parade \r\nLeeds LS1 5BN",
+        "phone": "0113 245 2485",
+        "twitter": "YourAllBarOne",
+        "stars_beer": 3,
+        "stars_atmosphere": 2,
+        "stars_amenities": 3.5,
+        "stars_value": 2.5,
+        "tags": "food,breakfast,beer garden,free wifi,coffee"
+    },
+    {
+        "_row_id": 138,
+        "name": "Rare",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=2314",
+        "date": "2014-03-18T22:31:00",
+        "excerpt": "Everything here is rare. But it's definitely more about the meat than the beer.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/03/IMG_20140317_175531.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79545,
+                -1.542309
+            ]
+        },
+        "address": "163 Lower Briggate\r\nLeeds LS1 6LY",
+        "phone": "0113 246 7013",
+        "twitter": "eatdrinkrare",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3.5,
+        "stars_value": 2,
+        "tags": "food,beer garden,free wifi,coffee,sunday roasts"
+    },
+    {
+        "_row_id": 139,
+        "name": "The Elbow Room",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=2325",
+        "date": "2014-03-21T08:19:40",
+        "excerpt": "This old pool hall has still got it.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/03/IMG_20140318_182748.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79477,
+                -1.5418544
+            ]
+        },
+        "address": "The Elbow Room\r\n64 Call Lane\r\nLeeds LS1 6DT",
+        "phone": "0113 227 7661",
+        "twitter": "Elbowroomleeds",
+        "stars_beer": 2,
+        "stars_atmosphere": 3,
+        "stars_amenities": 4,
+        "stars_value": 2.5,
+        "tags": "food,sofas,arcade games,sports,live music,pool table"
+    },
+    {
+        "_row_id": 140,
+        "name": "The Ship",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2336",
+        "date": "2014-03-31T17:38:51",
+        "excerpt": "An 18th-century pub with an acceptable selection of cask ales, but not much more. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/03/IMG_20140330_160921.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.798347,
+                -1.5422823
+            ]
+        },
+        "address": "71a Briggate \r\nLeeds LS1 6LH",
+        "phone": "0113 246 8031",
+        "twitter": "",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 3,
+        "stars_value": 3,
+        "tags": "food,beer garden,free wifi,coffee,live music,quiz"
+    },
+    {
+        "_row_id": 141,
+        "name": "The Lounge at Radisson Blu",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2348",
+        "date": "2014-04-02T10:17:44",
+        "excerpt": "It's a hotel bar. We were tricked into thinking it's something more.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/04/IMG_20140330_171400.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800003,
+                -1.5468621
+            ]
+        },
+        "address": "1 The Light\r\nThe Headrow\r\nLeeds LS1 8TL",
+        "phone": "0113 236 6000",
+        "twitter": "RadBluLeeds",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 2,
+        "stars_amenities": 2,
+        "stars_value": 2,
+        "tags": "food,coffee,sofas,sports"
+    },
+    {
+        "_row_id": 142,
+        "name": "The Decanter",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2357",
+        "date": "2014-04-12T15:50:51",
+        "excerpt": "This new wine bar may be an anomaly for Park Row but it's got nothing to draw us back.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/04/IMG_20140408_174739.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79878,
+                -1.5468729
+            ]
+        },
+        "address": "17 Park Row\r\nLeeds LS1 5JQ",
+        "phone": "",
+        "twitter": "decanterleeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 2,
+        "stars_amenities": 1,
+        "stars_value": 3.5,
+        "tags": "coffee"
+    },
+    {
+        "_row_id": 143,
+        "name": "Baa Bar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2364",
+        "date": "2014-04-28T19:57:12",
+        "excerpt": "A haven for lovers of rainbow-coloured shooters, but with a surprising range of craft beers too. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/04/IMG_20140423_174408.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.801826,
+                -1.5474565
+            ]
+        },
+        "address": "43-51 Cookridge Street \r\nLeeds LS2 3AW \r\n",
+        "phone": "0113 244 4213",
+        "twitter": "BaaBarLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2,
+        "stars_value": 3,
+        "tags": "free wifi,membership discount,dance floor"
+    },
+    {
+        "_row_id": 144,
+        "name": "Carpe Diem",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=2374",
+        "date": "2014-04-28T20:20:54",
+        "excerpt": "The original rock & indie bar hasn't lost any of its spirit in hipster times.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/04/IMG_20140428_181350.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800686,
+                -1.5487397
+            ]
+        },
+        "address": "Calverley Street\r\nLeeds LS1 3ED",
+        "phone": "0113 243 6264",
+        "twitter": "CarpeDiem_Leeds",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 4.5,
+        "stars_value": 4,
+        "tags": "food,free wifi,coffee,sofas,dance floor,arcade games,sports,live music,pool table,quiz"
+    },
+    {
+        "_row_id": 145,
+        "name": "Angelica",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2389",
+        "date": "2014-05-12T18:50:41",
+        "excerpt": "Atop Trinity shopping centre, this bar will delight those who love a good roof garden. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/05/IMG_20140505_133542.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79641,
+                -1.5433298
+            ]
+        },
+        "address": "Level 6, Trinity Leeds \r\n70 Boar Lane\r\nLeeds LS1 6HW",
+        "phone": "0113 897 0099",
+        "twitter": "AngelicaLeeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3,
+        "stars_value": 1.5,
+        "tags": "food,beer garden,coffee"
+    },
+    {
+        "_row_id": 146,
+        "name": "Revolution  Call Lane",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2399",
+        "date": "2014-05-12T21:10:45",
+        "excerpt": "The other Revolution didn't offend us, but why would we come back?",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/05/IMG_20140505_150459.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795227,
+                -1.5412188
+            ]
+        },
+        "address": "48 Call Lane\r\nLeeds LS1 6DT",
+        "phone": "0113 243 2778",
+        "twitter": "RevolutionBars",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 2,
+        "stars_amenities": 3,
+        "stars_value": 2,
+        "tags": "food,beer garden,free wifi,coffee"
+    },
+    {
+        "_row_id": 147,
+        "name": "Dry Dock",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2417",
+        "date": "2014-05-13T21:21:46",
+        "excerpt": "It's a boat.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/05/IMG_20140508_174731.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.804466,
+                -1.5476723
+            ]
+        },
+        "address": "Woodhouse Lane\r\nLeeds LS2 3AX",
+        "phone": "0113 391 2658",
+        "twitter": "DryDockLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 4.5,
+        "stars_value": 3.5,
+        "tags": "breakfast,beer garden,free wifi,coffee,sofas,membership discount,arcade games,live music,pool table,jukebox"
+    },
+    {
+        "_row_id": 148,
+        "name": "The Highland ",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2428",
+        "date": "2014-05-14T16:35:28",
+        "excerpt": "A charming little pub in the casino-filled no-man's land between Burley and Kirkstall Roads. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/05/IMG_20140513_182812.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79993,
+                -1.5617769
+            ]
+        },
+        "address": "38 Cavendish St\r\nLeeds LS3 1LY",
+        "phone": "0113 242 7155",
+        "twitter": "",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2.5,
+        "stars_value": 4,
+        "tags": "food,beer garden,arcade games,sports"
+    },
+    {
+        "_row_id": 149,
+        "name": "Bridge",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2444",
+        "date": "2014-05-28T15:15:29",
+        "excerpt": "Another LGBT bar with no decent beers. Such a shame.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/05/IMG_20140520_181435.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794456,
+                -1.542061
+            ]
+        },
+        "address": "1-5 Bridge End\r\nLeeds LS1 7HG",
+        "phone": "0113 258 7339",
+        "twitter": "",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 1.5,
+        "stars_amenities": 3,
+        "stars_value": 2,
+        "tags": "free wifi,sofas,dance floor,karaoke,arcade games,sunday roasts,lgbt"
+    },
+    {
+        "_row_id": 150,
+        "name": "Whitelock's Ale House",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2450",
+        "date": "2014-06-08T21:20:15",
+        "excerpt": "Claiming to be Leeds's oldest pub, Whitelock's can boast the historic honour of being our 150th review. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/06/IMG_20140528_193507.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.797195,
+                -1.5428953
+            ]
+        },
+        "address": "Turks Head Yard \r\nLeeds LS1 6HB ",
+        "phone": "0113 242 3368",
+        "twitter": "WhitelocksLeeds",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3,
+        "stars_value": 2.5,
+        "tags": "food,beer garden,coffee,sunday roasts"
+    },
+    {
+        "_row_id": 151,
+        "name": "Roxy Lanes",
+        "category": "Other reviews",
+        "url": "http://leedsbeer.info/?p=2470",
+        "date": "2014-06-15T17:58:53",
+        "excerpt": "Leeds's first bowling bar is definitely a niche but isn't quite as spectacular as its ping-pong neighbour.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/06/IMG_20140611_191254.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.797913,
+                -1.5463042
+            ]
+        },
+        "address": "1st Floor\r\nThe Podium\r\nBond Street\r\nLeeds LS1 5BQ",
+        "phone": "0113 322 1781",
+        "twitter": "roxylanesleeds",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2.5,
+        "stars_value": 2.5,
+        "tags": "food"
+    },
+    {
+        "_row_id": 152,
+        "name": "The Reform",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=2480",
+        "date": "2014-06-29T21:47:43",
+        "excerpt": "Free pizza with every drink? Why not! ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/06/IMG_20140626_182453.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800472,
+                -1.5399666
+            ]
+        },
+        "address": "12 - 14 Merrion St. \r\nLeeds LS1 6PQ",
+        "phone": "0113 244 4080 ",
+        "twitter": "TheReformBar",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2,
+        "stars_value": 3.5,
+        "tags": "sofas"
+    },
+    {
+        "_row_id": 153,
+        "name": "Santiago",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2486",
+        "date": "2014-06-29T21:48:14",
+        "excerpt": "The Grand Arcade's famous rock bar does what it does best. Rock. \\m/",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/06/IMG_20140626_190026.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800198,
+                -1.5398133
+            ]
+        },
+        "address": "Grand Arcade\r\nVicar Lane\r\nLeeds LS1 6GP",
+        "phone": "0113 244 4472",
+        "twitter": "SantiagosLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 3,
+        "stars_value": 2.5,
+        "tags": "free wifi,dance floor,live music"
+    },
+    {
+        "_row_id": 154,
+        "name": "The Regent",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2500",
+        "date": "2014-07-09T21:26:16",
+        "excerpt": "An old-school Leeds pub. We are not old-school Leeds people.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/07/IMG_20140708_185700.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.796574,
+                -1.5400299
+            ]
+        },
+        "address": "109 Kirkgate\r\nLeeds LS1 6DP",
+        "phone": "0113 245 6040",
+        "twitter": "",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 1,
+        "stars_amenities": 1.5,
+        "stars_value": 3,
+        "tags": "beer garden,karaoke,sports,jukebox"
+    },
+    {
+        "_row_id": 155,
+        "name": "Hirst's Yard",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2510",
+        "date": "2014-07-13T22:02:44",
+        "excerpt": "Lots of local bottles, a charming atmosphere and live music. The only thing maybe not to like too much are the prices. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/07/IMG_20140708_205536.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795673,
+                -1.5418015
+            ]
+        },
+        "address": "11-15 Hirsts Yard \r\nLeeds LS1 6NJ",
+        "phone": "0113 322 9919",
+        "twitter": "HirstsYard",
+        "stars_beer": 3,
+        "stars_atmosphere": 4,
+        "stars_amenities": 2.5,
+        "stars_value": 2,
+        "tags": "beer garden,sofas,live music"
+    },
+    {
+        "_row_id": 156,
+        "name": "Bundobust",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2524",
+        "date": "2014-07-19T21:33:54",
+        "excerpt": "The latest addition to the Leeds craft beer scene does not disappoint. In fact, we've made it our home already.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/07/IMG_20140718_173001.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79544,
+                -1.545513
+            ]
+        },
+        "address": "6 Mill Hill\r\nLeeds LS1 5DQ",
+        "phone": "",
+        "twitter": "bundobust",
+        "stars_beer": 4.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 4,
+        "stars_value": 4,
+        "tags": "food,beer garden"
+    },
+    {
+        "_row_id": 157,
+        "name": "Bilbao Bar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2538",
+        "date": "2014-07-23T21:21:55",
+        "excerpt": "A tapas bar that actually feels like a BAR and not a restaurant. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/07/IMG_20140719_195003.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79364,
+                -1.5495789
+            ]
+        },
+        "address": "Arch U \r\nDark Arches \r\nDark Neville Street \r\nLeeds LS1 4BR",
+        "phone": "0113 345 4323",
+        "twitter": "",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 2.5,
+        "stars_value": 3.5,
+        "tags": "food,coffee"
+    },
+    {
+        "_row_id": 158,
+        "name": "The 212 Cafe & Bar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2546",
+        "date": "2014-08-20T09:59:11",
+        "excerpt": "A cool cafe-cum-nightclub with a small but good beer selection. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/08/IMG_20140812_200904.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.793636,
+                -1.5381975
+            ]
+        },
+        "address": "Brewery Place \r\nLeeds LS10 1NE",
+        "phone": "07725 674224",
+        "twitter": "",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3,
+        "stars_value": 3,
+        "tags": "food,beer garden,coffee,dance floor"
+    },
+    {
+        "_row_id": 159,
+        "name": "Twisted Kitchen",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=2549",
+        "date": "2014-08-19T22:53:25",
+        "excerpt": "A new bar on Brewery Place, but so nicheless I can't even think of a good summary for this box.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/08/IMG_20140812_185546.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.793873,
+                -1.5373135
+            ]
+        },
+        "address": "4 Brewery Place\r\nLeeds LS10 1NE",
+        "phone": "0113 243 1637",
+        "twitter": "TwistedLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2.5,
+        "stars_value": 2,
+        "tags": "food,beer garden,coffee"
+    },
+    {
+        "_row_id": 160,
+        "name": "Roland's",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2566",
+        "date": "2014-08-22T20:39:59",
+        "excerpt": "Call Lane's latest addition actually has a decent beer selection!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/08/IMG_20140820_181714.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795322,
+                -1.5409559
+            ]
+        },
+        "address": "39 Call Lane\r\nLeeds LS1 7BT",
+        "phone": "0113 318 2964",
+        "twitter": "RolandsLeeds",
+        "stars_beer": 4,
+        "stars_atmosphere": 3,
+        "stars_amenities": 3,
+        "stars_value": 3.5,
+        "tags": "food,beer garden,coffee"
+    },
+    {
+        "_row_id": 161,
+        "name": "General Eliott",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2572",
+        "date": "2014-08-25T18:02:08",
+        "excerpt": "A traditional Yorkshire pub that, to our delight, is part of the Sam Smith's family. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/08/IMG_20140821_192819.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79717,
+                -1.5404792
+            ]
+        },
+        "address": "31-33 Vicar Lane \r\nLeeds LS1 6DS",
+        "phone": "0113 244 2663",
+        "twitter": "",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 1.5,
+        "stars_amenities": 0.5,
+        "stars_value": 4,
+        "tags": ""
+    },
+    {
+        "_row_id": 162,
+        "name": "Almost Famous",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2592",
+        "date": "2014-08-29T07:13:02",
+        "excerpt": "Here's something new to Leeds: an ultra-cool burger bar.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/08/IMG_20140826_174337.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80072,
+                -1.5480624
+            ]
+        },
+        "address": "23-25 Great George St\r\nLeeds LS1 3AL",
+        "phone": "",
+        "twitter": "AlmostFamousLDS",
+        "stars_beer": 3,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 3,
+        "stars_value": 3,
+        "tags": "food"
+    },
+    {
+        "_row_id": 163,
+        "name": "Veeno",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2610",
+        "date": "2014-09-07T09:35:14",
+        "excerpt": "A wine bar in the Italian enoteca style, this place is definitely all about the wine. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/09/IMG_20140903_175600.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79615,
+                -1.5420028
+            ]
+        },
+        "address": "7 Duncan Street \r\nLeeds LS1 6DQ",
+        "phone": "0113 243 3401",
+        "twitter": "veeno_uk",
+        "stars_beer": 1,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2.5,
+        "stars_value": 2.5,
+        "tags": "food,coffee"
+    },
+    {
+        "_row_id": 164,
+        "name": "MEATLiquor",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2626",
+        "date": "2014-09-07T10:27:52",
+        "excerpt": "London's hipster burgeria gets in on the Leeds action.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/09/IMG_20140905_182755.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79704,
+                -1.5445393
+            ]
+        },
+        "address": "Bank Street\r\nTrinity Centre\r\nLeeds LS1 5AT",
+        "phone": "",
+        "twitter": "meatliquorLDS",
+        "stars_beer": 3,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3,
+        "stars_value": 2,
+        "tags": "food,darts"
+    },
+    {
+        "_row_id": 165,
+        "name": "The Stone Roses Bar",
+        "category": "Other reviews",
+        "url": "http://leedsbeer.info/?p=2637",
+        "date": "2014-09-14T16:09:34",
+        "excerpt": "A smelly, sticky dark indie music hall. Perfect.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/09/IMG_20140912_214343.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794895,
+                -1.542592
+            ]
+        },
+        "address": "9 Briggate\r\nLeeds LS1 6ER",
+        "phone": "0113 234 6704",
+        "twitter": "StoneRosesLeeds",
+        "stars_beer": 1,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2.5,
+        "stars_value": 3.5,
+        "tags": "dance floor"
+    },
+    {
+        "_row_id": 166,
+        "name": "The Fourth Floor Bar ",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2648",
+        "date": "2014-09-14T16:08:52",
+        "excerpt": "The dining and drinking experience atop Harvey Nichols offers two or three good beer choices along with top-notch service. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/09/IMG_20140912_194240.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.798134,
+                -1.5414822
+            ]
+        },
+        "address": "107-111 Briggate\r\nLeeds LS1 6AZ",
+        "phone": "0113 204 8000",
+        "twitter": "HN_Leeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 3.5,
+        "stars_value": 3.5,
+        "tags": "food,beer garden,free wifi,coffee"
+    },
+    {
+        "_row_id": 167,
+        "name": "The Horse & Trumpet",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2662",
+        "date": "2014-09-20T11:30:41",
+        "excerpt": "A chain pub on the Headrow with pretty much nothing remarkable to say about it.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/09/HT-e1411212520438.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.799046,
+                -1.5425223
+            ]
+        },
+        "address": "51-53 The Headrow\r\nLeeds LS1 6LR",
+        "phone": "0113 243 0338",
+        "twitter": "",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 1.5,
+        "stars_amenities": 3.5,
+        "stars_value": 4,
+        "tags": "food,breakfast,free wifi,coffee,sports,jukebox"
+    },
+    {
+        "_row_id": 168,
+        "name": "The Griffin",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2679",
+        "date": "2014-09-27T14:37:31",
+        "excerpt": "The former Griffin Hotel and Censsa gets a makeover by the folks at Taylor Walker. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/09/IMG_20140921_150121.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795715,
+                -1.5457952
+            ]
+        },
+        "address": "31 Boar Lane \r\nLeeds LS1 5DF",
+        "phone": "0113 244 5220",
+        "twitter": "Griffin_Leeds",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3.5,
+        "stars_value": 3,
+        "tags": "food,free wifi,coffee,sports,live music,sunday roasts"
+    },
+    {
+        "_row_id": 169,
+        "name": "Dish",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2690",
+        "date": "2014-09-30T21:18:52",
+        "excerpt": "Really just an antechamber for the restaurant, but pleasant enough.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/09/IMG_20140929_175629.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79581,
+                -1.5437937
+            ]
+        },
+        "address": "19 Boar Lane\r\nLeeds LS1 6EA\u0003",
+        "phone": "0113 318 2274",
+        "twitter": "dishleeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3,
+        "stars_value": 2,
+        "tags": "food,free wifi,coffee,sofas"
+    },
+    {
+        "_row_id": 170,
+        "name": "The Central",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=2703",
+        "date": "2014-10-12T18:09:21",
+        "excerpt": "A few decent beers in a pleasant-enough-but-somewhat-bland atmosphere. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/10/IMG_20141007_185841.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79686,
+                -1.5551982
+            ]
+        },
+        "address": "88 Wellington Street \r\nLeeds LS1 4LT",
+        "phone": "0113 242 4434",
+        "twitter": "thecentralleeds",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 2,
+        "stars_amenities": 2.5,
+        "stars_value": 3,
+        "tags": "food,coffee,live music,sunday roasts"
+    },
+    {
+        "_row_id": 171,
+        "name": "The Viaduct Showbar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2713",
+        "date": "2014-10-12T18:35:06",
+        "excerpt": "The Viaduct is the place to go for drag shows. But definitely not for decent beer.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/10/IMG_20141010_191240.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795074,
+                -1.5425813
+            ]
+        },
+        "address": "Lower Briggate\r\nLeeds LS1 6ER",
+        "phone": "0113 244 3255",
+        "twitter": "ViaductShowBar",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 2,
+        "stars_amenities": 3.5,
+        "stars_value": 2,
+        "tags": "beer garden,free wifi,karaoke,quiz,lgbt"
+    },
+    {
+        "_row_id": 172,
+        "name": "The Black Prince",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2719",
+        "date": "2014-10-13T20:43:24",
+        "excerpt": "ABC: Another Boring Chain(pub). ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/10/IMG_20141010_193028.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79592,
+                -1.5467286
+            ]
+        },
+        "address": "40 Boar Lane\r\nLeeds LS1 5DA\r\n",
+        "phone": "0113 245 8063",
+        "twitter": "SizzlingPubs",
+        "stars_beer": 3,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 4,
+        "stars_value": 4,
+        "tags": "food,breakfast,free wifi,coffee,arcade games,sports"
+    },
+    {
+        "_row_id": 173,
+        "name": "115 The Headrow",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2753",
+        "date": "2014-10-18T15:48:51",
+        "excerpt": "A bar that lives up to its name.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/10/115.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.7994,
+                -1.545981
+            ]
+        },
+        "address": "115 The Headrow\r\nLeeds, LS1 5JW",
+        "phone": "",
+        "twitter": "BLoungeGrp",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2.5,
+        "stars_value": 2,
+        "tags": "food,coffee"
+    },
+    {
+        "_row_id": 174,
+        "name": "Henleys Sports Bar and Grill ",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2765",
+        "date": "2014-10-22T12:11:53",
+        "excerpt": "The first dedicated sports bar in the Northern Quarter. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/10/IMG_20141021_174854.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800713,
+                -1.5403296
+            ]
+        },
+        "address": "68 New Briggate \r\nLeeds LS1 6PQ",
+        "phone": "0113 345 1130",
+        "twitter": "henleyssportbar",
+        "stars_beer": 1,
+        "stars_atmosphere": 2,
+        "stars_amenities": 2,
+        "stars_value": 2.5,
+        "tags": "food,dance floor,arcade games,sports"
+    },
+    {
+        "_row_id": 175,
+        "name": "Northern Monk Refectory",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2779",
+        "date": "2014-10-26T13:01:49",
+        "excerpt": "Upstairs from their new brewery, this taproom and kitchen is absolutely spot on. Go there!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/10/IMG_20141025_114049.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.790768,
+                -1.5540987
+            ]
+        },
+        "address": "The Old Flax Store\r\nMarshalls Mill\r\nHolbeck\r\nLeeds LS11 9YJ",
+        "phone": "0113 243 6430",
+        "twitter": "NMBCoRefectory",
+        "stars_beer": 4.5,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 3.5,
+        "stars_value": 4.5,
+        "tags": "food,breakfast,beer garden,coffee"
+    },
+    {
+        "_row_id": 176,
+        "name": "Bird and Beats",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2781",
+        "date": "2014-10-26T17:59:24",
+        "excerpt": "The companion bar to Bird and Beast, featuring a DJ and lots of coolness. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/10/IMG_20141024_174653492.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.796143,
+                -1.5414344
+            ]
+        },
+        "address": "Central Arcade \r\nLeeds LS1 6DX",
+        "phone": "0113 245 3348",
+        "twitter": "birdrestaurants",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 1.5,
+        "stars_value": 3,
+        "tags": ""
+    },
+    {
+        "_row_id": 177,
+        "name": "The New Penny",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2783",
+        "date": "2014-10-29T20:22:26",
+        "excerpt": "A gay bar with a fun and welcoming atmosphere and a good place to dance. But the beer sucks. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/10/IMG_20141025_205903087.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794945,
+                -1.5406003
+            ]
+        },
+        "address": "57-59 The Calls \r\nLeeds LS1 7BT\r\n",
+        "phone": "0113 243 8055",
+        "twitter": "",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2,
+        "stars_value": 2,
+        "tags": "dance floor,arcade games,lgbt"
+    },
+    {
+        "_row_id": 178,
+        "name": "Blayds Bar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2785",
+        "date": "2014-10-29T20:40:01",
+        "excerpt": "This tiny bar is one of Leeds's oldest LGBT venues. Beer selection is as you'd expect.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/10/IMG_20141025_213418266.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794685,
+                -1.5427785
+            ]
+        },
+        "address": "3-7 Blayds Yard\r\nLower Briggate\r\nLeeds LS1 4AD",
+        "phone": "0113 244 5590",
+        "twitter": "BlaydsBar",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 1,
+        "stars_amenities": 2.5,
+        "stars_value": 2.5,
+        "tags": "dance floor,karaoke,arcade games,quiz,lgbt"
+    },
+    {
+        "_row_id": 179,
+        "name": "Mix Karaoke Bar",
+        "category": "Other reviews",
+        "url": "http://leedsbeer.info/?p=2787",
+        "date": "2014-10-30T07:44:21",
+        "excerpt": "Leeds's only dedicated karaoke bar is definitely all about the karaoke and not at all about the beer.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/10/IMG_20141025_220543239.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79962,
+                -1.5415567
+            ]
+        },
+        "address": "28 New Briggate\r\nLeeds LS1 6NU",
+        "phone": "0113 246 9997",
+        "twitter": "Mix_Karaoke",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2,
+        "stars_value": 1.5,
+        "tags": "food,karaoke"
+    },
+    {
+        "_row_id": 180,
+        "name": "Black Swan",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2837",
+        "date": "2014-10-30T08:06:05",
+        "excerpt": "The newest bar in the Sandinista! empire was a bit of a surprise for us.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/10/IMG_20141028_193110732.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795403,
+                -1.5409023
+            ]
+        },
+        "address": "37 Call Lane\r\nLeeds LS1 6DT",
+        "phone": "0113 245 7700",
+        "twitter": "blackswanleeds",
+        "stars_beer": 4,
+        "stars_atmosphere": 3,
+        "stars_amenities": 3.5,
+        "stars_value": 3.5,
+        "tags": "food,sofas"
+    },
+    {
+        "_row_id": 181,
+        "name": "Scene! ",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2845",
+        "date": "2014-11-18T07:51:24",
+        "excerpt": "The hotel bar for the Park Plaza. Not mind blowing but an OK beer selection. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/11/IMG_20141103_181808708.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.796265,
+                -1.5468584
+            ]
+        },
+        "address": "Boar Lane \r\nCity Square \r\nLeeds LS1 5NS",
+        "phone": "0113 380 4169",
+        "twitter": "",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 1.5,
+        "stars_amenities": 1,
+        "stars_value": 3,
+        "tags": "free wifi,coffee"
+    },
+    {
+        "_row_id": 182,
+        "name": "The Wood Beneath the World",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=2859",
+        "date": "2014-11-25T08:09:07",
+        "excerpt": "A wood has appeared beneath Leeds Town Hall, and its inhabitants are peddling craft beer!",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/11/IMG_20141122_174954793.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79989,
+                -1.5493512
+            ]
+        },
+        "address": "Leeds Town Hall\r\nThe Headrow\r\nLeeds LS1 3AD",
+        "phone": "",
+        "twitter": "CellsBar",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 1.5,
+        "stars_value": 3,
+        "tags": "coffee"
+    },
+    {
+        "_row_id": 183,
+        "name": "The Brotherhood of Pursuits and Pastimes ",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2869",
+        "date": "2014-11-25T08:18:55",
+        "excerpt": "Sports sports sports sports sports. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/11/IMG_20141122_185257551.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800438,
+                -1.540795
+            ]
+        },
+        "address": "54 New Briggate\r\nLeeds LS1 6NU ",
+        "phone": "0113 243 4060",
+        "twitter": "BrotherhoodLds",
+        "stars_beer": 2,
+        "stars_atmosphere": 1.5,
+        "stars_amenities": 3,
+        "stars_value": 1.5,
+        "tags": "food,coffee,sports,pool table"
+    },
+    {
+        "_row_id": 184,
+        "name": "Manahatta",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2882",
+        "date": "2014-11-28T13:21:00",
+        "excerpt": "\"New York style\" companion bar to The Pit. We're staying next door, thanks.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/11/IMG_20141122_192031535.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800407,
+                -1.5404195
+            ]
+        },
+        "address": "11 Merrion Street\r\nLeeds LS1 6PG",
+        "phone": "0113 245 6275",
+        "twitter": "ManahattaLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 1.5,
+        "stars_amenities": 2,
+        "stars_value": 1,
+        "tags": "food,coffee"
+    },
+    {
+        "_row_id": 185,
+        "name": "LAB",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2894",
+        "date": "2014-11-30T22:08:03",
+        "excerpt": "This Merrion Centre spot offers a decent beer selection to Arena goers. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/11/IMG_20141125_174315517.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.802525,
+                -1.5441989
+            ]
+        },
+        "address": "Merrion Way \r\nLeeds LS2 8BT",
+        "phone": "0113 887 7281",
+        "twitter": "LABLeeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 3,
+        "stars_amenities": 3.5,
+        "stars_value": 2.5,
+        "tags": "food,beer garden,coffee"
+    },
+    {
+        "_row_id": 186,
+        "name": "Tall Boys Beer Market",
+        "category": "Other reviews",
+        "url": "http://leedsbeer.info/?p=2900",
+        "date": "2014-12-03T17:46:29",
+        "excerpt": "An exciting new bottle shop in the city centre with space to drink in.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/11/IMG_20141128_160517091.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.798615,
+                -1.5427403
+            ]
+        },
+        "address": "17 Thornton's Arcade\r\nLeeds LS1 6LQ",
+        "phone": "07592 148113",
+        "twitter": "tallboysleeds",
+        "stars_beer": 4.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 2,
+        "stars_value": 4,
+        "tags": ""
+    },
+    {
+        "_row_id": 187,
+        "name": "The Head of Steam",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2922",
+        "date": "2014-12-29T10:54:26",
+        "excerpt": "Five stars for beer! Good atmosphere and a little something for everyone. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2014/12/IMG_20141213_145139683.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795288,
+                -1.5457343
+            ]
+        },
+        "address": "Mill Hill\r\nLeeds LS1 5DQ",
+        "phone": "",
+        "twitter": "hos_leeds",
+        "stars_beer": 5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 2.5,
+        "stars_value": 3.5,
+        "tags": "food,coffee"
+    },
+    {
+        "_row_id": 188,
+        "name": "Verve",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2939",
+        "date": "2015-01-10T15:14:08",
+        "excerpt": "Merrion Street's live music and comedy venue is little more than that.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/01/IMG_20150106_175110206.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80048,
+                -1.5402184
+            ]
+        },
+        "address": "16 Merrion Street\r\nLeeds LS1 6PQ",
+        "phone": "0113 244 2272",
+        "twitter": "VerveMariachi",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2.5,
+        "stars_value": 2,
+        "tags": "beer garden,dance floor,live music"
+    },
+    {
+        "_row_id": 189,
+        "name": "The Rock Bar",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=2955",
+        "date": "2015-01-19T22:42:38",
+        "excerpt": "A piece of Ibiza in Leeds, with a beer selection to match.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/01/IMG_20150117_222358873.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794903,
+                -1.5414923
+            ]
+        },
+        "address": "52 Call Lane\r\nLeeds LS1 6DT",
+        "phone": "0113 246 8232",
+        "twitter": "therockbar",
+        "stars_beer": 1,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2,
+        "stars_value": 1.5,
+        "tags": "free wifi,dance floor"
+    },
+    {
+        "_row_id": 190,
+        "name": "Baracoa Luxe Bar",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=2961",
+        "date": "2015-01-21T21:27:14",
+        "excerpt": "A Call Lane dance club for people who like Call Lane dance clubs and don't mind shitty beer. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/01/baracoa.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.794617,
+                -1.5421361
+            ]
+        },
+        "address": "64-68 Call Lane\r\nLeeds LS1 6DT\r\n",
+        "phone": "0113 245 2324",
+        "twitter": "baracoaluxebar",
+        "stars_beer": 1,
+        "stars_atmosphere": 1,
+        "stars_amenities": 1.5,
+        "stars_value": 1,
+        "tags": "dance floor,sports"
+    },
+    {
+        "_row_id": 191,
+        "name": "Yates's, Woodhouse Lane",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=2980",
+        "date": "2015-01-29T22:06:50",
+        "excerpt": "A marked improvement on its sibling. Still a chain pub.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/01/IMG_20150120_180501646.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.8017,
+                -1.5455478
+            ]
+        },
+        "address": "43 Woodhouse Lane\r\nLeeds LS1 3HQ\r\n",
+        "phone": "0113 245 4928",
+        "twitter": "Yates_WHL_Leeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 3,
+        "stars_amenities": 3.5,
+        "stars_value": 4,
+        "tags": "food,breakfast,beer garden,free wifi,coffee,arcade games"
+    },
+    {
+        "_row_id": 192,
+        "name": "The White Rabbit",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=2991",
+        "date": "2015-01-31T15:00:37",
+        "excerpt": "A cool and inviting bar in the basement on York Place with a great selection of bottled crafts. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/01/IMG_20150130_220707308.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.796963,
+                -1.552113
+            ]
+        },
+        "address": "11 York Place \r\nLeeds LS1 2DS",
+        "phone": "0113 242 1202",
+        "twitter": "",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 2,
+        "stars_value": 3.5,
+        "tags": "sofas"
+    },
+    {
+        "_row_id": 193,
+        "name": "The Office",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3004",
+        "date": "2015-02-15T23:33:01",
+        "excerpt": "This new after-work bar is very nice but is let down by its beer selection.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/02/IMG_20150214_171842459.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79856,
+                -1.5496184
+            ]
+        },
+        "address": "9 East Parade\r\nLeeds LS1 2AJ",
+        "phone": "",
+        "twitter": "TheOfficeLeeds",
+        "stars_beer": 2,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 1.5,
+        "stars_value": 3,
+        "tags": ""
+    },
+    {
+        "_row_id": 194,
+        "name": "Ipsum Vinoteca",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3013",
+        "date": "2015-02-22T23:19:11",
+        "excerpt": "A real Italian wine shop with a surprising beer selection.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/02/IMG_20150216_165023239.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79706,
+                -1.5340942
+            ]
+        },
+        "address": "Munro House\r\nDuke Street\r\nLeeds LS9 8AG\r\n",
+        "phone": "0113 242 5197",
+        "twitter": "IpsumVinoteca",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 3.5,
+        "stars_value": 3.5,
+        "tags": "food,coffee,sofas"
+    },
+    {
+        "_row_id": 195,
+        "name": "Sociable Folk",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3028",
+        "date": "2015-02-28T13:38:21",
+        "excerpt": "A bar and cafe catering to local workers; great food and a couple of crafts got our attention! ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/02/IMG_20150225_122955269_HDR.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795937,
+                -1.5557343
+            ]
+        },
+        "address": "10 Wellington Place \r\nLeeds LS1 4AP",
+        "phone": "0113 243 1840",
+        "twitter": "SociableFolk",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,breakfast,beer garden,free wifi,coffee"
+    },
+    {
+        "_row_id": 196,
+        "name": "Pintura",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3042",
+        "date": "2015-03-22T12:50:35",
+        "excerpt": "The second of its kind in Leeds, this Basque tapas place offers a handful of ordinary Spanish bottles. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/03/IMG_20150316_184159766.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79717,
+                -1.5435711
+            ]
+        },
+        "address": "Trinity Shopping Centre \r\nLeeds LS1 2DY ",
+        "phone": "0113 430 0915",
+        "twitter": "pinturakitchen",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2.5,
+        "stars_value": 1.5,
+        "tags": "food,free wifi,coffee"
+    },
+    {
+        "_row_id": 197,
+        "name": "Norman Bar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3044",
+        "date": "2015-03-24T20:31:21",
+        "excerpt": "A pretty boring Call Lane bar/club with some good beers. Not good enough to draw us in, though. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/03/IMG_20150321_171200112_HDR.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795647,
+                -1.5411189
+            ]
+        },
+        "address": "36 Call Lane \r\nLeeds LS1 6DT\r\n",
+        "phone": "0872 080 8000",
+        "twitter": "normanbarleeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 2,
+        "stars_amenities": 2,
+        "stars_value": 2.5,
+        "tags": "free wifi,dance floor"
+    },
+    {
+        "_row_id": 198,
+        "name": "Milo",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3046",
+        "date": "2015-03-24T19:02:51",
+        "excerpt": "One of the top indie hangouts in Leeds with a decent selection of beers to boot.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/03/IMG_20150321_180747183.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.796444,
+                -1.5400811
+            ]
+        },
+        "address": "10-12 Call Lane\r\nLeeds LS1 6DN",
+        "phone": "0113 345 0800",
+        "twitter": "milobarleeds",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 2.5,
+        "stars_value": 2.5,
+        "tags": "coffee,dance floor,live music"
+    },
+    {
+        "_row_id": 199,
+        "name": "314 In Progress",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3048",
+        "date": "2015-03-24T20:31:30",
+        "excerpt": "This fashionable cocktail bar & club isn't really our scene but has surprisingly good beer.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/03/IMG_20150209_175103005.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.80072,
+                -1.5483344
+            ]
+        },
+        "address": "25 Great George Street\r\nLeeds LS1 3AL",
+        "phone": "0113 397 1337",
+        "twitter": "314Leeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 1.5,
+        "stars_value": 2,
+        "tags": "dance floor"
+    },
+    {
+        "_row_id": 200,
+        "name": "Soba",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3108",
+        "date": "2015-04-13T21:12:19",
+        "excerpt": "This glass house serves Asian street food and a few decent beers too.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/04/IMG_20150411_174025921.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800358,
+                -1.5401161
+            ]
+        },
+        "address": "9a Merrion Street\r\nLeeds LS1 6PQ",
+        "phone": "0113 242 5128",
+        "twitter": "BarSobaGlasgow",
+        "stars_beer": 3,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2.5,
+        "stars_value": 2,
+        "tags": "food,beer garden,coffee,dance floor"
+    },
+    {
+        "_row_id": 201,
+        "name": "Candlebar",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3118",
+        "date": "2015-05-03T16:59:11",
+        "excerpt": "An Ossett Brewery bar, appealing to craft beer and wine lovers alike. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/05/IMG_20150426_124459563.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.793316,
+                -1.5508283
+            ]
+        },
+        "address": "Candle House \r\nGranary Wharf \r\nLeeds LS1 4GJ",
+        "phone": "244 6655",
+        "twitter": "candlebarleeds",
+        "stars_beer": 4.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3.5,
+        "stars_value": 3.5,
+        "tags": "food,beer garden,free wifi,coffee"
+    },
+    {
+        "_row_id": 202,
+        "name": "Burgundy",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3138",
+        "date": "2015-05-22T07:01:14",
+        "excerpt": "A French bistro & bar in the heart of the financial quarter, with a surprising selection of beers.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/05/IMG_20150513_120220724_HDR.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.797733,
+                -1.5519875
+            ]
+        },
+        "address": "12 Park Place\r\nLeeds LS1 2RU",
+        "phone": "0113 245 0703",
+        "twitter": "burgundyleeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3,
+        "stars_value": 2,
+        "tags": "food,breakfast,coffee"
+    },
+    {
+        "_row_id": 203,
+        "name": "Rum Shack",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3148",
+        "date": "2015-07-19T19:09:02",
+        "excerpt": "A pop-up rum bar from the Hedonist Project. No beer worth mentioning, but lots of other good qualities! ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/07/IMG_20150701_194917761_HDR.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800865,
+                -1.5409935
+            ]
+        },
+        "address": "3 Cross Belgrave Street \r\nLeeds LS2 8JP ",
+        "phone": "",
+        "twitter": "HedonistProject",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 3,
+        "stars_amenities": 2,
+        "stars_value": 2,
+        "tags": "beer garden,sofas"
+    },
+    {
+        "_row_id": 204,
+        "name": "Khao San Bar",
+        "category": "Closed venues",
+        "url": "http://leedsbeer.info/?p=3152",
+        "date": "2015-07-19T19:11:54",
+        "excerpt": "Er... we don't really know what we just experienced.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/07/IMG_20150713_181356309_HDR.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800724,
+                -1.540159
+            ]
+        },
+        "address": "72 New Briggate\r\nLeeds LS1 6NU",
+        "phone": "0113 318 4306",
+        "twitter": "KhaoSanBar",
+        "stars_beer": 1,
+        "stars_atmosphere": 1,
+        "stars_amenities": 1.5,
+        "stars_value": 2.5,
+        "tags": "food,dance floor"
+    },
+    {
+        "_row_id": 205,
+        "name": "The Lamb & Flag",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=3174",
+        "date": "2015-08-01T07:29:40",
+        "excerpt": "This beautifully renovated building is a great addition to Leeds Brewerys empire.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/07/IMG_20150713_194457514.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.795216,
+                -1.5369481
+            ]
+        },
+        "address": "1 Church Row\r\nLeeds LS2 7HD",
+        "phone": "0113 243 1255",
+        "twitter": "lambandflaglds",
+        "stars_beer": 4,
+        "stars_atmosphere": 4,
+        "stars_amenities": 3.5,
+        "stars_value": 3,
+        "tags": "food,beer garden,coffee"
+    },
+    {
+        "_row_id": 206,
+        "name": "Slate NQ",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3187",
+        "date": "2015-08-11T21:42:35",
+        "excerpt": "A snazzy pool hall with a beer selection that will run the table. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/08/IMG_20150726_192433797.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800484,
+                -1.5418994
+            ]
+        },
+        "address": "Merrion Street\r\nLeeds LS2 8JE",
+        "phone": "0113 322 5788",
+        "twitter": "SlateNQ",
+        "stars_beer": 4,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 4,
+        "stars_value": 2.5,
+        "tags": "food,beer garden,coffee,sofas,pool table"
+    },
+    {
+        "_row_id": 207,
+        "name": "ShuffleDog",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3192",
+        "date": "2015-08-11T21:44:26",
+        "excerpt": "The new BrewDog in town is going for something different.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/08/IMG_20150804_180131397.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.801098,
+                -1.5387881
+            ]
+        },
+        "address": "Crispin House\r\nNew York Road\r\nLeeds LS2 7PF",
+        "phone": "",
+        "twitter": "shuffledogleeds",
+        "stars_beer": 4.5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3.5,
+        "stars_value": 3,
+        "tags": "food,free wifi"
+    },
+    {
+        "_row_id": 208,
+        "name": "The Liquorist",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3216",
+        "date": "2015-09-16T20:53:43",
+        "excerpt": "Once a boring Greek Street bar, this spot has been re-opened as a different boring Greek Street bar. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/09/IMG_20150817_182044813.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.798504,
+                -1.5473872
+            ]
+        },
+        "address": "5-7 Greek Street \r\nLeeds LS1 5RW",
+        "phone": "0113 380 0930",
+        "twitter": "LiquoristLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 3,
+        "stars_value": 2,
+        "tags": "food,free wifi,coffee"
+    },
+    {
+        "_row_id": 209,
+        "name": "Wino",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3232",
+        "date": "2015-09-23T20:42:36",
+        "excerpt": "A wine bar serving the financial district. Beer's not the focus but it's a great spot nonetheless. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/09/IMG_20150918_191356356.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.7983,
+                -1.5531774
+            ]
+        },
+        "address": "69 St Paul's Street\r\nLeeds LS1 2TE",
+        "phone": "0113 345 5960",
+        "twitter": "winoleeds_wino",
+        "stars_beer": 0.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 2.5,
+        "stars_value": 3.5,
+        "tags": "food,free wifi"
+    },
+    {
+        "_row_id": 210,
+        "name": "The Brunswick",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=3235",
+        "date": "2015-09-20T16:27:00",
+        "excerpt": "Leeds's latest craft beer bar is definitely run by people who know what they're doing.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/09/IMG_20150911_174916437.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.802036,
+                -1.5373552
+            ]
+        },
+        "address": "82 North Street\r\nLeeds LS2 7PN",
+        "phone": "0113 247 0546",
+        "twitter": "brunswickleeds",
+        "stars_beer": 5,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3.5,
+        "stars_value": 3.5,
+        "tags": "food,free wifi,coffee,live music"
+    },
+    {
+        "_row_id": 211,
+        "name": "Archie's Bar & Kitchen",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3237",
+        "date": "2015-09-21T21:57:25",
+        "excerpt": "Ossett complete their dominance of Granary Wharf with this disco kitchen.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/09/IMG_20150918_175536338.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.793694,
+                -1.5495384
+            ]
+        },
+        "address": "Arches V & W \r\nThe Dark Arches \r\nGranary Wharf \r\nLeeds LS1 4BR ",
+        "phone": "0113 243 1001",
+        "twitter": "ArchiesLeeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 4.5,
+        "stars_value": 3,
+        "tags": "food,breakfast,beer garden,coffee,dance floor,jukebox"
+    },
+    {
+        "_row_id": 212,
+        "name": "Be At One",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3239",
+        "date": "2015-09-30T21:06:43",
+        "excerpt": "A meat market for grown-ups. Average beer. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/09/IMG_20150918_201517554.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.800896,
+                -1.5483377
+            ]
+        },
+        "address": "6 Millennium Square \r\nGreat George Street\r\nLeeds LS2 3AD",
+        "phone": "0113 887 2784",
+        "twitter": "BeAtOneBar",
+        "stars_beer": 2,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 1,
+        "stars_value": 2.5,
+        "tags": ""
+    },
+    {
+        "_row_id": 213,
+        "name": "Bar Camparino",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3241",
+        "date": "2015-10-03T12:23:21",
+        "excerpt": "Buca di Pizza's dedicated bar space is a chilled out basement escape.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/09/IMG-20151002-WA0000.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.796177,
+                -1.5516782
+            ]
+        },
+        "address": "Buca di Pizza\r\n27 Wellington St.\r\nLeeds LS1 4EA",
+        "phone": "0113 242 3872",
+        "twitter": "bucaleeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 3.5,
+        "stars_value": 2,
+        "tags": "food,beer garden,coffee"
+    },
+    {
+        "_row_id": 214,
+        "name": "Headrow House",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3296",
+        "date": "2015-11-02T22:47:04",
+        "excerpt": "A crafty cousin of Belgrave Music Hall and Canteen, complete with a full restaurant and two roof terraces. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/11/IMG_20151019_174341668.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.798527,
+                -1.5406919
+            ]
+        },
+        "address": "Bramleys Yard\r\nThe Headrow\r\nLeeds LS1 6PU",
+        "phone": "0113 234 6160",
+        "twitter": "headrowhouse",
+        "stars_beer": 4,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,beer garden,free wifi,sofas,dance floor,live music"
+    },
+    {
+        "_row_id": 215,
+        "name": "Sid's Little Egg",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3306",
+        "date": "2015-11-02T22:48:08",
+        "excerpt": "This oddly named little bar is a new gem on the south bank.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/11/IMG_20151102_185107720.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.793377,
+                -1.5418184
+            ]
+        },
+        "address": "28-32 Bridge End\r\nLeeds LS1 4DJ",
+        "phone": "07880 893542",
+        "twitter": "sidslittleegg",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 3.5,
+        "stars_value": 3,
+        "tags": "food,coffee,sofas,arcade games,sports,pool table"
+    },
+    {
+        "_row_id": 216,
+        "name": "The Phoenix at The Central",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=3323",
+        "date": "2015-12-04T22:42:50",
+        "excerpt": "The Central has returned, and it's trying to be your go-to for lunch.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/12/IMG_20151118_192801837.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.796825,
+                -1.5551972
+            ]
+        },
+        "address": "88 Wellington Street\r\nLeeds LS1 4LT",
+        "phone": "0113 242 4434",
+        "twitter": "",
+        "stars_beer": 2,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3,
+        "stars_value": 3.5,
+        "tags": "food,breakfast,coffee,live music"
+    },
+    {
+        "_row_id": 217,
+        "name": "The Alchemist  Greek Street",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3333",
+        "date": "2015-12-04T22:36:37",
+        "excerpt": "A hipster-y cocktail bar that doesn't care about beer. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2015/12/IMG_20151118_172802805.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79848,
+                -1.5487498
+            ]
+        },
+        "address": "Yorkshire House\r\nGreek Street\r\nLeeds LS1 5SH",
+        "phone": "0113 200 5930",
+        "twitter": "thealchemistgs",
+        "stars_beer": 1.5,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2.5,
+        "stars_value": 1.5,
+        "tags": "food,breakfast,free wifi,coffee"
+    },
+    {
+        "_row_id": 218,
+        "name": "Wapentake",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3348",
+        "date": "2016-01-03T11:56:42",
+        "excerpt": "A little bit of everything comes together perfectly on Leeds's oldest street.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2016/01/IMG_20160101_160008283.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79609,
+                -1.5386838
+            ]
+        },
+        "address": "92 Kirkgate\r\nLeeds LS2 7DJ",
+        "phone": "0113 243 6248",
+        "twitter": "@WapentakeLeeds",
+        "stars_beer": 3.5,
+        "stars_atmosphere": 4.5,
+        "stars_amenities": 4.5,
+        "stars_value": 3.5,
+        "tags": "food,breakfast,free wifi,coffee,sofas,sports"
+    },
+    {
+        "_row_id": 219,
+        "name": "Sheaf St Cafeteria",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3361",
+        "date": "2016-01-10T20:00:07",
+        "excerpt": "The bar attached to Duke Studios is a chance to have a relaxing drink even on a Friday night.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2016/01/IMG_20160109_181517712.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.791252,
+                -1.538225
+            ]
+        },
+        "address": "Duke Studios\r\n3 Sheaf Street\r\nLeeds LS10 1HD",
+        "phone": "0113 2459487",
+        "twitter": "SheafCafeteria",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 4,
+        "stars_amenities": 2.5,
+        "stars_value": 2.5,
+        "tags": "free wifi,sofas"
+    },
+    {
+        "_row_id": 220,
+        "name": "Cha Lounge",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3367",
+        "date": "2016-01-10T22:17:37",
+        "excerpt": "A delightful tea room and bar, offering a handful of good local beers and with room to grow. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2016/01/IMG_20160109_192652572.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.793766,
+                -1.539563
+            ]
+        },
+        "address": "24 Dock Street \r\nLeeds LS10 1JF",
+        "phone": "07749 811218",
+        "twitter": "ChaLoungeLeeds",
+        "stars_beer": 2.5,
+        "stars_atmosphere": 5,
+        "stars_amenities": 4,
+        "stars_value": 3,
+        "tags": "food,breakfast,free wifi,coffee,sofas"
+    },
+    {
+        "_row_id": 221,
+        "name": "Baht'ap",
+        "category": "Pub reviews",
+        "url": "http://leedsbeer.info/?p=3386",
+        "date": "2016-02-23T21:50:23",
+        "excerpt": "A refurbed pub that in trying to appeal to everyone, failed to appeal to us. ",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2016/02/IMG_20160130_163552883.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.79511,
+                -1.5454998
+            ]
+        },
+        "address": "11 Mill Hill \r\nLeeds LS1 5DQ",
+        "phone": "0113 245 6540",
+        "twitter": "bahtapleeds",
+        "stars_beer": 3,
+        "stars_atmosphere": 2.5,
+        "stars_amenities": 2.5,
+        "stars_value": 2,
+        "tags": "food,beer garden,free wifi,coffee"
+    },
+    {
+        "_row_id": 222,
+        "name": "The Turk's Head",
+        "category": "Bar reviews",
+        "url": "http://leedsbeer.info/?p=3392",
+        "date": "2016-02-22T07:46:21",
+        "excerpt": "Leeds's oldest pub has had a serious makeover.",
+        "thumbnail": "http://leedsbeer.info/wp-content/uploads/2016/02/IMG_20160131_130252550_HDR.jpg",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                53.797165,
+                -1.5433204
+            ]
+        },
+        "address": "4 Turks Head Yard\r\nLeeds LS1 6HB",
+        "phone": "0113 242 3368",
+        "twitter": "TurksHeadLeeds",
+        "stars_beer": 4,
+        "stars_atmosphere": 3.5,
+        "stars_amenities": 3,
+        "stars_value": 2,
+        "tags": "food,beer garden,free wifi,sunday roasts"
+    }
+]
