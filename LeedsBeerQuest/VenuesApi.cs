@@ -1,5 +1,6 @@
 using System.IO;
 using System.Net;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -8,6 +9,7 @@ using Microsoft.Azure.WebJobs.Extensions.Http;
 using Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.Attributes;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Microsoft.Azure.Cosmos;
 using Newtonsoft.Json;
 
 namespace LeedsBeerQuest
@@ -40,21 +42,43 @@ namespace LeedsBeerQuest
 
         [FunctionName("GetVenues")]
         [OpenApiOperation(operationId: "GetVenues", tags: new[] { "name" })]
-        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(string), Description = "The OK response")]
+        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Venue>), Description = "The OK response")]
         public static async Task<IActionResult> GetVenues(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "Venues")] HttpRequest req,
+            [CosmosDB(
+                databaseName: "venues",
+                containerName: "venuecontainer",
+                Connection  = "CosmosDBConnectionString")]
+                CosmosClient  client,
             ILogger log)
         {
             log.LogInformation("C# HTTP trigger function processed a request.");
-           
-            return new OkResult();
+            
+            Container container = client.GetDatabase("venues").GetContainer("venuecontainer");
+
+            QueryDefinition queryDefinition = new QueryDefinition(
+                @"SELECT *
+                FROM c");
+
+            List<Venue> lstVenues = new List<Venue>();
+
+            using (FeedIterator<Venue> resultSet = container.GetItemQueryIterator<Venue>(queryDefinition))
+            {
+                while (resultSet.HasMoreResults)
+                {
+                    FeedResponse<Venue> response = await resultSet.ReadNextAsync();
+                    lstVenues.AddRange(response.Resource);
+                }
+            }
+
+            return new JsonResult(lstVenues);
         }
 
         [FunctionName("GetVenuesWithinDistance")]
         [OpenApiOperation(operationId: "GetVenuesWithinDistance", tags: new[] { "name" })]
         [OpenApiParameter(name: "distance", In = ParameterLocation.Query, Required = true, Type = typeof(int), Description = "The distance in meters to search for venues")]
         [OpenApiParameter(name: "position", In = ParameterLocation.Query, Required = true, Type = typeof(string), Description = "The position to search from (lat,long)")]
-        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(string), Description = "The OK response")]
+        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Venue>), Description = "The OK response")]
         public static async Task<IActionResult> GetVenuesWithinDistance(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "GetVenuesWithinDistance")] HttpRequest req,
             ILogger log)
@@ -69,7 +93,7 @@ namespace LeedsBeerQuest
         [OpenApiParameter(name: "tag", In = ParameterLocation.Query, Required = false, Type = typeof(string), Description = "The tag to search for")]
         [OpenApiParameter(name: "distance", In = ParameterLocation.Query, Required = false, Type = typeof(int), Description = "The distance in meters to search for venues")]
         [OpenApiParameter(name: "position", In = ParameterLocation.Query, Required = false, Type = typeof(string), Description = "The position to search from (lat,long)")]
-        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(string), Description = "The OK response")]
+        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Venue>), Description = "The OK response")]
         public static async Task<IActionResult> GetVenuesWithTag(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "GetVenuesWithTag")] HttpRequest req,
             ILogger log)
