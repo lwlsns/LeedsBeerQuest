@@ -52,7 +52,7 @@ namespace LeedsBeerQuest
                 CosmosClient  client,
             ILogger log)
         {
-            log.LogInformation("C# HTTP trigger function processed a request.");
+            log.LogInformation("C# HTTP trigger function GetVenues processed a request.");
             
             Container container = client.GetDatabase("venues").GetContainer("venuecontainer");
 
@@ -77,15 +77,53 @@ namespace LeedsBeerQuest
         [FunctionName("GetVenuesWithinDistance")]
         [OpenApiOperation(operationId: "GetVenuesWithinDistance", tags: new[] { "name" })]
         [OpenApiParameter(name: "distance", In = ParameterLocation.Query, Required = true, Type = typeof(int), Description = "The distance in meters to search for venues")]
-        [OpenApiParameter(name: "position", In = ParameterLocation.Query, Required = true, Type = typeof(string), Description = "The position to search from (lat,long)")]
+        [OpenApiParameter(name: "position", In = ParameterLocation.Query, Required = false, Type = typeof(string), Description = "The position to search from (lat,long)")]
         [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Venue>), Description = "The OK response")]
         public static async Task<IActionResult> GetVenuesWithinDistance(
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "GetVenuesWithinDistance")] HttpRequest req,
+            [CosmosDB(
+                databaseName: "venues",
+                containerName: "venuecontainer",
+                Connection  = "CosmosDBConnectionString")]
+                CosmosClient  client,
             ILogger log)
         {
-            log.LogInformation("C# HTTP trigger function processed a request.");
-           
-            return new OkResult();
+            log.LogInformation("C# HTTP trigger function GetVenuesWithinDistance processed a request.");
+
+            string position = req.Query["position"];
+            string distance = req.Query["distance"];
+
+            string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
+            dynamic data = JsonConvert.DeserializeObject(requestBody);
+
+            position = position ?? data?.position;
+            distance = distance ?? data?.distance;
+
+            if(string.IsNullOrEmpty(position))
+            {
+                return new BadRequestResult();
+            }
+
+            Container container = client.GetDatabase("venues").GetContainer("venuecontainer");
+
+            QueryDefinition queryDefinition = new QueryDefinition(
+                @"SELECT ST_DISTANCE(c.location, {'type': 'Point', 'coordinates':[53.795647, -1.5485017]}) AS Distance,
+                c.id, c.name, c.category, c.url, c.date, c.excerpt, c.thumbnail, c.location, c.address, c.phone, c.twitter,
+                c.stars_beer, c.stars_atmosphere, c.stars_amenities, c.stars_value, c.tags
+                FROM c");
+
+            List<Venue> lstVenues = new List<Venue>();
+
+            using (FeedIterator<Venue> resultSet = container.GetItemQueryIterator<Venue>(queryDefinition))
+            {
+                while (resultSet.HasMoreResults)
+                {
+                    FeedResponse<Venue> response = await resultSet.ReadNextAsync();
+                    lstVenues.AddRange(response.Resource);
+                }
+            }
+
+            return new JsonResult(lstVenues);
         }
 
         [FunctionName("GetVenuesWithTag")]
@@ -98,7 +136,7 @@ namespace LeedsBeerQuest
             [HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "GetVenuesWithTag")] HttpRequest req,
             ILogger log)
         {
-            log.LogInformation("C# HTTP trigger function processed a request.");
+            log.LogInformation("C# HTTP trigger function GetVenuesWithTag processed a request.");
            
             return new OkResult();
         }
