@@ -12,7 +12,7 @@ namespace LeedsBeerQuest
     {
         public string Id { get; set; }
         public string Name { get; set; }
-        public string Distance { get; set; }
+        public double Distance { get; set; }
         public string Category { get; set; }
         public string Url { get; set; }
         public DateTime Date { get; set; }
