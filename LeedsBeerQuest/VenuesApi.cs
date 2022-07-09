@@ -104,19 +104,26 @@ namespace LeedsBeerQuest
                 return new BadRequestResult();
             }
 
-            string query = $"SELECT ST_DISTANCE(c.location, {{'type': 'Point', 'coordinates':[{position}]}}) AS Distance, " +
-                "c.id, c.name, c.category, c.url, c.date, c.excerpt, c.thumbnail, c.location, c.address, c.phone, c.twitter, " + 
-                "c.stars_beer, c.stars_atmosphere, c.stars_amenities, c.stars_value, c.tags " +
-                "FROM c";
+            string query = @"SELECT ST_DISTANCE(c.location, {'type': 'Point', 'coordinates':[@lat,@lng]}) AS Distance, 
+                c.id, c.name, c.category, c.url, c.date, c.excerpt, c.thumbnail, c.location, c.address, c.phone, c.twitter, 
+                c.stars_beer, c.stars_atmosphere, c.stars_amenities, c.stars_value, c.tags 
+                FROM c";
 
             if(!string.IsNullOrEmpty(distance))
             {
-                query = $"{query} WHERE ST_DISTANCE(c.location, {{'type': 'Point', 'coordinates':[{position}]}}) < {distance}";
+                query += " WHERE ST_DISTANCE(c.location, {'type': 'Point', 'coordinates':[@lat,@lng]}) < @distance";
             }
 
             Container container = client.GetDatabase("venues").GetContainer("venuecontainer");
 
-            QueryDefinition queryDefinition = new QueryDefinition(query);
+            string[] parts = position.Split(',');
+
+
+            QueryDefinition queryDefinition = new QueryDefinition(query)
+                .WithParameter("@lat", double.Parse(parts[0].Trim()))
+                .WithParameter("@lng", double.Parse(parts[1].Trim()))
+                .WithParameter("@distance", int.Parse(distance));
+                
 
             List<Venue> lstVenues = new List<Venue>();
 
@@ -165,21 +172,26 @@ namespace LeedsBeerQuest
                 return new BadRequestResult();
             }
 
-            string query = $"SELECT ST_DISTANCE(c.location, {{'type': 'Point', 'coordinates':[{position}]}}) AS Distance, " +
-                "c.id, c.name, c.category, c.url, c.date, c.excerpt, c.thumbnail, c.location, c.address, c.phone, c.twitter, " + 
-                "c.stars_beer, c.stars_atmosphere, c.stars_amenities, c.stars_value, c.tags " +
-                "FROM c " + 
-                $"WHERE CONTAINS(c.tags, '{tag}', true)";
+            string query = @"SELECT ST_DISTANCE(c.location, {'type': 'Point', 'coordinates':[@lat,@lng]}) AS Distance, 
+                c.id, c.name, c.category, c.url, c.date, c.excerpt, c.thumbnail, c.location, c.address, c.phone, c.twitter, 
+                c.stars_beer, c.stars_atmosphere, c.stars_amenities, c.stars_value, c.tags 
+                FROM c
+                WHERE CONTAINS(c.tags, @tag, true)";
 
             if(!string.IsNullOrEmpty(distance))
             {
-                query = $"{query} AND ST_DISTANCE(c.location, {{'type': 'Point', 'coordinates':[{position}]}}) < {distance}";
+                query += " AND ST_DISTANCE(c.location, {'type': 'Point', 'coordinates':[@lat,@lng]}) < @distance";
             }
 
             Container container = client.GetDatabase("venues").GetContainer("venuecontainer");
 
-            QueryDefinition queryDefinition = new QueryDefinition(query);
+            string[] parts = position.Split(',');
 
+            QueryDefinition queryDefinition = new QueryDefinition(query)
+                .WithParameter("@lat", double.Parse(parts[0].Trim()))
+                .WithParameter("@lng", double.Parse(parts[1].Trim()))
+                .WithParameter("@distance", int.Parse(distance))
+                .WithParameter("@tag", tag);
             List<Venue> lstVenues = new List<Venue>();
 
             using (FeedIterator<Venue> resultSet = container.GetItemQueryIterator<Venue>(queryDefinition))
